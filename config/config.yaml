@@ -1,0 +1,15 @@
+llm:
+  openai:
+    provider: "openai"
+    model_name: "gpt-4o"
+  groq:
+    provider: "groq"
+    model_name: "deepseek-r1-distill-llama-70b"
+
+database:
+  dialect: "postgresql"
+  user: "postgres"
+  password: "mysecretpassword"
+  host: "localhost"
+  port: 5432
+  db_name: "testdb"

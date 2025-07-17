@@ -1,0 +1,14 @@
+ipykernel
+pandas
+sqlalchemy
+psycopg2-binary
+langchain-groq
+langchain
+langchain-community
+langgraph
+fastapi
+uvicorn
+pydantic
+streamlit
+langchain_openai
+huggingface_hub

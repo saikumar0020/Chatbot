@@ -1,0 +1,501 @@
+Document ID,Document Received Date,Invoice Status,Invoice Type,Invoice Number,Invoice Date,PO Number,Currency,Tax Amount,Invoice Amount,Supplier Name,Bill To
+DOC_0000000001,05/06/2025 03:02,Failed,PO Invoice,32648,05/19/2025,755043131.0,USD,250.43,3443.57,morrison-dominguez,Engineer wireless paradigms department morrison-mckay
+DOC_0000000002,05/12/2025 19:34,Extracted,Non-PO Invoice,35581,04/21/2025,755043600.0,MYR,272.66,3940.81,marshall ltd,"Reinvent efficient e-business department wilson, daniel and myers"
+DOC_0000000003,04/26/2025 07:51,Partially Extracted,Non-PO Invoice,37280,06/27/2025,,USD,7.04,3951.59,"wilson, hodge and miller",Expedite leading-edge mindshare department scott plc
+DOC_0000000004,05/06/2025 05:38,Extracted,PO Invoice,36977,06/02/2025,755043064.0,INR,253.9,4019.79,"decker, murphy and thomas",Exploit killer synergies department deleon-glover
+DOC_0000000005,05/07/2025 19:50,Extracted,Non-PO Invoice,34216,05/24/2025,755043799.0,MYR,334.15,3690.24,evans-middleton,Empower viral roi department dougherty group
+DOC_0000000006,07/12/2025 11:14,Extracted,PO Invoice,31129,04/20/2025,755043760.0,MYR,455.32,3443.69,"schmitt, smith and rivera",Exploit user-centric experiences department lloyd-brock
+DOC_0000000007,05/17/2025 10:52,Partially Extracted,PO Invoice,30745,07/16/2025,755043713.0,USD,233.07,2245.21,savage-gibson,Grow real-time platforms department watts-chen
+DOC_0000000008,06/08/2025 20:31,Extracted,PO Invoice,36071,07/01/2025,,EUR,390.05,4800.08,torres plc,Integrate b2c functionalities department lopez-price
+DOC_0000000009,07/09/2025 20:07,Extracted,Non-PO Invoice,39829,05/13/2025,755043683.0,MYR,421.39,2137.57,warner and sons,"Envisioneer bricks-and-clicks niches department fox, anderson and scott"
+DOC_0000000010,06/10/2025 09:00,Failed,PO Invoice,32436,06/29/2025,,EUR,90.75,3272.22,"jennings, johnson and banks",Optimize b2c communities department martin-burke
+DOC_0000000011,06/12/2025 21:58,Failed,PO Invoice,38990,06/12/2025,,USD,355.59,2778.51,"rasmussen, perez and allen",Whiteboard bleeding-edge metrics department brown-hawkins
+DOC_0000000012,04/23/2025 04:50,Extracted,PO Invoice,32724,06/24/2025,755043438.0,EUR,457.17,1441.94,avery and sons,Deliver dynamic bandwidth department clarke group
+DOC_0000000013,05/10/2025 18:06,Partially Extracted,Non-PO Invoice,31764,06/03/2025,755043774.0,INR,307.1,4849.06,orozco ltd,"Unleash scalable e-commerce department mack, taylor and marsh"
+DOC_0000000014,05/20/2025 19:18,Failed,PO Invoice,32811,07/13/2025,,USD,17.79,3903.66,smith-wilson,"Re-intermediate strategic web-readiness department hopkins, smith and alexander"
+DOC_0000000015,07/07/2025 17:16,Extracted,Non-PO Invoice,37643,04/30/2025,,INR,63.12,4343.51,"moore, wilson and green",Generate extensible web-readiness department church and sons
+DOC_0000000016,05/06/2025 08:40,Partially Extracted,PO Invoice,35788,07/01/2025,755043227.0,MYR,36.32,1569.91,"hughes, castillo and clarke","Benchmark virtual channels department massey, bailey and navarro"
+DOC_0000000017,05/05/2025 18:18,Partially Extracted,PO Invoice,32939,05/31/2025,,INR,356.23,4159.07,williams-nash,"Brand transparent synergies department smith, pope and hartman"
+DOC_0000000018,06/12/2025 06:48,Failed,Non-PO Invoice,38417,05/12/2025,,INR,489.48,2095.9,gutierrez llc,Syndicate global vortals department brooks-higgins
+DOC_0000000019,05/31/2025 04:28,Extracted,Non-PO Invoice,37249,05/26/2025,,MYR,395.41,3904.68,lucas-morrison,Cultivate clicks-and-mortar convergence department joseph plc
+DOC_0000000020,05/27/2025 18:36,Failed,Non-PO Invoice,32292,06/26/2025,,MYR,47.06,588.16,nelson-cruz,Synergize distributed solutions department cooper-gibson
+DOC_0000000021,05/31/2025 07:54,Extracted,Non-PO Invoice,38114,06/03/2025,755043174.0,EUR,298.75,3148.14,alvarez inc,"Extend ubiquitous infrastructures department collins, collins and hunt"
+DOC_0000000022,07/14/2025 23:27,Partially Extracted,Non-PO Invoice,30053,05/15/2025,755043973.0,MYR,214.95,4013.34,"foster, berry and rogers",Mesh distributed experiences department vasquez-alvarado
+DOC_0000000023,06/05/2025 04:02,Extracted,PO Invoice,39479,06/09/2025,755043024.0,EUR,21.97,3488.01,horn inc,"Orchestrate wireless infrastructures department young, curtis and smith"
+DOC_0000000024,05/23/2025 21:17,Partially Extracted,Non-PO Invoice,33106,05/02/2025,755043523.0,USD,316.8,490.88,johnston-brooks,Brand ubiquitous niches department ortega-johnson
+DOC_0000000025,06/26/2025 09:14,Extracted,PO Invoice,31165,05/17/2025,,INR,486.74,4508.87,"moreno, white and briggs",Cultivate turn-key functionalities department baker and sons
+DOC_0000000026,06/03/2025 16:48,Partially Extracted,Non-PO Invoice,31282,05/31/2025,755043405.0,INR,463.07,4289.77,williamson llc,Syndicate integrated e-business department mitchell-richardson
+DOC_0000000027,07/17/2025 17:09,Failed,Non-PO Invoice,30248,05/12/2025,755043768.0,EUR,303.23,1019.03,thompson ltd,Embrace clicks-and-mortar e-business department wallace-harrington
+DOC_0000000028,06/02/2025 04:55,Partially Extracted,PO Invoice,32125,06/23/2025,,EUR,427.48,3513.7,"ray, brown and castillo","Deploy distributed content department todd, hart and perry"
+DOC_0000000029,05/24/2025 18:27,Extracted,PO Invoice,39238,05/26/2025,755043310.0,USD,437.79,4696.51,young llc,"Exploit ubiquitous users department miller, garner and barnes"
+DOC_0000000030,06/16/2025 20:50,Failed,Non-PO Invoice,34468,07/09/2025,755043906.0,EUR,478.74,381.07,"bell, graves and roberts","Innovate web-enabled e-services department hayes, reed and baker"
+DOC_0000000031,07/05/2025 06:26,Extracted,Non-PO Invoice,32522,05/04/2025,,USD,315.4,1870.81,johnson ltd,"Expedite cross-platform experiences department morris, jones and miles"
+DOC_0000000032,05/06/2025 18:32,Partially Extracted,PO Invoice,38353,04/19/2025,755043660.0,MYR,339.69,4018.55,hansen-brown,Transform intuitive users department silva-graham
+DOC_0000000033,07/07/2025 13:44,Failed,PO Invoice,30566,06/05/2025,,INR,294.03,2425.68,hill and sons,"Syndicate efficient e-markets department diaz, jackson and vaughan"
+DOC_0000000034,06/16/2025 15:00,Extracted,PO Invoice,31341,07/08/2025,,MYR,428.77,1079.15,owen-george,Maximize plug-and-play web services department warren-brown
+DOC_0000000035,07/09/2025 20:17,Extracted,Non-PO Invoice,30766,07/11/2025,755043379.0,MYR,259.01,621.91,escobar-rodriguez,"Monetize impactful e-services department moreno, morgan and lee"
+DOC_0000000036,06/22/2025 09:55,Partially Extracted,Non-PO Invoice,30649,07/10/2025,,MYR,59.24,1757.1,neal ltd,Engage back-end supply-chains department garcia-campbell
+DOC_0000000037,07/01/2025 04:02,Partially Extracted,Non-PO Invoice,39934,04/26/2025,755043256.0,USD,356.23,3781.49,fields group,Exploit innovative infrastructures department hernandez llc
+DOC_0000000038,06/06/2025 04:48,Partially Extracted,PO Invoice,38046,05/05/2025,755043964.0,USD,154.71,914.29,lee-barron,Re-contextualize open-source systems department todd-hughes
+DOC_0000000039,05/10/2025 09:25,Failed,PO Invoice,39544,05/15/2025,,EUR,307.48,3047.53,ewing ltd,Maximize plug-and-play vortals department fields-vargas
+DOC_0000000040,04/29/2025 20:34,Partially Extracted,Non-PO Invoice,39780,06/07/2025,755043208.0,EUR,282.51,3154.18,castaneda-wagner,Synergize one-to-one systems department johnson llc
+DOC_0000000041,05/23/2025 15:21,Failed,PO Invoice,36687,06/19/2025,,MYR,148.63,3555.83,white-jackson,Disintermediate end-to-end networks department barker llc
+DOC_0000000042,07/08/2025 09:37,Failed,PO Invoice,34874,06/01/2025,755043955.0,USD,172.3,349.43,stanton-johnson,Redefine wireless solutions department hebert group
+DOC_0000000043,05/18/2025 00:05,Partially Extracted,PO Invoice,34567,07/13/2025,,USD,278.45,3869.41,jackson-dunn,Incentivize collaborative markets department barnes and sons
+DOC_0000000044,04/29/2025 10:24,Extracted,PO Invoice,30372,05/13/2025,755043448.0,EUR,134.54,1247.79,johnson inc,Cultivate user-centric info-mediaries department orr-davis
+DOC_0000000045,06/12/2025 05:17,Failed,Non-PO Invoice,30402,07/12/2025,,INR,3.73,3220.12,lopez-lyons,Aggregate scalable supply-chains department anderson-adams
+DOC_0000000046,05/25/2025 07:00,Extracted,Non-PO Invoice,30760,05/27/2025,755043238.0,EUR,324.31,4479.48,brown plc,"Drive 24/7 deliverables department adams, valentine and monroe"
+DOC_0000000047,05/01/2025 19:51,Extracted,PO Invoice,32073,05/08/2025,755043750.0,EUR,378.83,675.75,hill and sons,Utilize synergistic methodologies department horton-berry
+DOC_0000000048,05/30/2025 18:10,Partially Extracted,Non-PO Invoice,30476,06/27/2025,,INR,303.34,622.38,"phillips, hernandez and cobb","Re-contextualize efficient deliverables department rios, gardner and wilkerson"
+DOC_0000000049,06/24/2025 11:12,Failed,PO Invoice,31428,05/09/2025,,USD,122.28,2590.0,chang-mendoza,"Strategize frictionless technologies department shaffer, bryant and mitchell"
+DOC_0000000050,05/07/2025 01:55,Extracted,Non-PO Invoice,37710,07/06/2025,755043972.0,USD,287.75,4528.17,"harmon, dalton and edwards",Engage frictionless methodologies department ayers-henderson
+DOC_0000000051,06/17/2025 09:13,Partially Extracted,PO Invoice,33442,06/19/2025,,USD,319.8,3796.95,"hodge, carter and floyd",Implement leading-edge synergies department bartlett ltd
+DOC_0000000052,06/11/2025 08:18,Partially Extracted,Non-PO Invoice,38899,06/01/2025,,EUR,38.06,2187.11,"wiley, garcia and potts","Transform frictionless bandwidth department grimes, dalton and hooper"
+DOC_0000000053,05/20/2025 08:53,Failed,Non-PO Invoice,32890,06/17/2025,,INR,460.36,4048.84,martin plc,"Evolve frictionless applications department dalton, shaw and carter"
+DOC_0000000054,05/23/2025 05:17,Extracted,Non-PO Invoice,36373,05/20/2025,755043180.0,USD,168.54,3382.72,"douglas, martin and stevens","Maximize ubiquitous content department bell, adams and huber"
+DOC_0000000055,06/13/2025 10:46,Failed,Non-PO Invoice,33217,06/30/2025,,MYR,462.55,842.76,collier ltd,Target transparent supply-chains department spears-jones
+DOC_0000000056,06/09/2025 02:43,Extracted,Non-PO Invoice,36289,04/19/2025,,USD,241.96,1986.51,contreras inc,Matrix frictionless e-business department harris llc
+DOC_0000000057,06/07/2025 13:44,Partially Extracted,PO Invoice,37861,06/21/2025,755043413.0,USD,43.69,1820.41,"simmons, rivera and porter",Strategize collaborative roi department davies ltd
+DOC_0000000058,05/14/2025 15:35,Failed,PO Invoice,32458,06/12/2025,,USD,484.99,814.87,"malone, thompson and combs",Reinvent front-end eyeballs department walsh-mathis
+DOC_0000000059,06/28/2025 09:23,Failed,Non-PO Invoice,39487,06/16/2025,755043720.0,EUR,376.67,1141.92,"zuniga, price and watkins","Expedite robust users department griffin, yates and drake"
+DOC_0000000060,06/11/2025 15:53,Extracted,PO Invoice,31126,07/02/2025,,INR,135.51,2614.56,martin-grant,Expedite killer bandwidth department weaver group
+DOC_0000000061,05/26/2025 16:43,Failed,PO Invoice,34022,04/19/2025,,MYR,67.37,4122.76,clark plc,"Extend b2c infrastructures department murphy, daniel and brady"
+DOC_0000000062,07/02/2025 05:28,Partially Extracted,Non-PO Invoice,38388,06/04/2025,755043509.0,EUR,232.05,1233.94,moon inc,Re-contextualize leading-edge networks department foster-holder
+DOC_0000000063,06/18/2025 21:01,Failed,PO Invoice,30463,05/06/2025,755043740.0,INR,269.36,3807.04,"washington, long and smith",Whiteboard out-of-the-box eyeballs department mora plc
+DOC_0000000064,05/26/2025 17:41,Partially Extracted,Non-PO Invoice,38290,05/29/2025,,EUR,490.13,4362.17,andrews group,Embrace plug-and-play networks department lindsey-molina
+DOC_0000000065,06/14/2025 08:22,Extracted,Non-PO Invoice,32912,06/30/2025,,INR,443.18,3608.24,"winters, munoz and malone","Empower turn-key synergies department oliver, andrews and lester"
+DOC_0000000066,07/14/2025 22:18,Failed,Non-PO Invoice,32169,06/14/2025,,USD,266.71,1000.66,fry llc,"Implement killer web services department robinson, mckinney and hicks"
+DOC_0000000067,04/30/2025 20:59,Partially Extracted,PO Invoice,31497,06/22/2025,755043943.0,EUR,492.39,1360.01,roth-ellison,Implement visionary infrastructures department maddox-smith
+DOC_0000000068,05/18/2025 05:05,Extracted,Non-PO Invoice,39518,04/27/2025,755043292.0,EUR,428.15,631.45,"adkins, nelson and mcdonald",Whiteboard integrated technologies department jordan ltd
+DOC_0000000069,06/29/2025 11:07,Extracted,Non-PO Invoice,30537,07/08/2025,,USD,419.52,1757.93,evans group,"Reinvent revolutionary initiatives department nelson, jackson and stevens"
+DOC_0000000070,05/15/2025 21:13,Failed,PO Invoice,36122,07/05/2025,755043410.0,MYR,198.21,1058.34,"valdez, durham and harrison",Incubate ubiquitous platforms department mason inc
+DOC_0000000071,05/24/2025 18:33,Extracted,Non-PO Invoice,38168,05/20/2025,,INR,464.17,1720.85,bryant group,Leverage intuitive eyeballs department snow-bryant
+DOC_0000000072,07/01/2025 23:32,Extracted,PO Invoice,30363,05/31/2025,,MYR,402.08,3359.77,ryan llc,Brand virtual e-markets department knight-roth
+DOC_0000000073,04/20/2025 02:23,Extracted,Non-PO Invoice,38168,04/23/2025,755043339.0,EUR,354.98,1153.42,spencer inc,Whiteboard ubiquitous partnerships department french group
+DOC_0000000074,05/02/2025 01:32,Partially Extracted,Non-PO Invoice,36958,04/28/2025,,EUR,46.24,858.53,arellano inc,Orchestrate turn-key infrastructures department wagner-mendoza
+DOC_0000000075,05/11/2025 09:56,Extracted,PO Invoice,37531,07/09/2025,755043578.0,INR,118.51,3967.71,snyder llc,"Optimize frictionless infrastructures department perry, meyer and campos"
+DOC_0000000076,06/30/2025 00:26,Partially Extracted,Non-PO Invoice,36348,05/18/2025,755043610.0,INR,481.56,2946.76,stevens inc,Matrix compelling methodologies department hunt plc
+DOC_0000000077,06/03/2025 13:05,Extracted,PO Invoice,30870,05/28/2025,755043475.0,EUR,401.86,517.75,finley group,"Iterate scalable eyeballs department freeman, baker and brown"
+DOC_0000000078,05/14/2025 09:33,Failed,PO Invoice,34970,06/01/2025,755043086.0,USD,61.98,552.32,"morton, mccoy and johnson","Incubate interactive infrastructures department carter, jones and thompson"
+DOC_0000000079,04/19/2025 04:48,Extracted,Non-PO Invoice,36546,07/03/2025,,INR,362.24,3232.92,davis plc,Brand enterprise niches department moran-villanueva
+DOC_0000000080,07/13/2025 13:19,Partially Extracted,PO Invoice,39218,06/08/2025,,EUR,488.35,1812.96,randall-harris,Strategize customized supply-chains department collins plc
+DOC_0000000081,07/04/2025 18:52,Extracted,Non-PO Invoice,33134,07/15/2025,755043900.0,USD,326.17,4976.36,young and sons,Syndicate open-source platforms department nichols ltd
+DOC_0000000082,05/29/2025 17:01,Extracted,Non-PO Invoice,35923,06/01/2025,755043896.0,MYR,357.46,2411.58,cummings inc,Re-intermediate efficient eyeballs department brown inc
+DOC_0000000083,05/03/2025 04:26,Failed,Non-PO Invoice,30286,04/19/2025,755043343.0,INR,346.94,3732.25,chavez-castaneda,Facilitate dot-com functionalities department allen-lewis
+DOC_0000000084,07/03/2025 17:35,Partially Extracted,PO Invoice,38280,06/17/2025,,MYR,246.49,825.34,jones plc,Harness next-generation supply-chains department moore-hoover
+DOC_0000000085,06/06/2025 11:45,Failed,PO Invoice,35478,06/28/2025,755043985.0,USD,4.52,421.22,"clark, baxter and rice",Matrix world-class functionalities department reed-jackson
+DOC_0000000086,07/14/2025 09:55,Partially Extracted,Non-PO Invoice,32067,07/07/2025,,MYR,369.66,3635.86,bird-wallace,"Reinvent frictionless infrastructures department hardy, blair and knight"
+DOC_0000000087,06/06/2025 06:48,Failed,PO Invoice,34786,04/19/2025,755043197.0,USD,361.77,1529.38,"jefferson, williams and daniels","Deploy real-time functionalities department vincent, wilson and morgan"
+DOC_0000000088,06/30/2025 19:18,Extracted,Non-PO Invoice,33571,06/07/2025,755043776.0,USD,251.68,219.04,"escobar, buckley and velasquez",Unleash real-time communities department brown llc
+DOC_0000000089,06/01/2025 04:43,Failed,PO Invoice,37698,07/15/2025,,USD,456.8,3565.15,"young, williams and clarke","Extend robust eyeballs department weaver, coffey and sims"
+DOC_0000000090,05/30/2025 17:57,Partially Extracted,Non-PO Invoice,35901,07/01/2025,,EUR,119.2,3412.79,novak-hobbs,Aggregate holistic supply-chains department gonzalez-smith
+DOC_0000000091,07/09/2025 15:53,Partially Extracted,Non-PO Invoice,34477,07/03/2025,,MYR,273.7,3039.14,"owens, hines and yates",Envisioneer integrated relationships department caldwell ltd
+DOC_0000000092,05/21/2025 15:33,Extracted,Non-PO Invoice,32463,07/16/2025,,EUR,445.48,1432.38,"gibson, olson and holder","Aggregate frictionless e-services department ross, williams and miranda"
+DOC_0000000093,04/28/2025 19:41,Failed,PO Invoice,34073,04/28/2025,,EUR,142.35,1452.34,"white, rogers and jacobs",Repurpose web-enabled web services department hale inc
+DOC_0000000094,05/28/2025 08:51,Failed,Non-PO Invoice,34812,07/01/2025,,MYR,342.45,3104.8,young group,Drive frictionless content department baker and sons
+DOC_0000000095,07/10/2025 08:57,Failed,Non-PO Invoice,30482,05/22/2025,755043033.0,INR,236.23,4476.38,"lopez, bullock and anderson",Enable b2b methodologies department west plc
+DOC_0000000096,06/24/2025 10:19,Partially Extracted,Non-PO Invoice,38406,06/07/2025,,MYR,53.02,1501.01,"day, smith and ramos",Matrix viral schemas department wilson-nichols
+DOC_0000000097,06/05/2025 11:06,Partially Extracted,Non-PO Invoice,37891,06/16/2025,755043596.0,EUR,327.19,4962.64,"kelly, collins and wilson",Architect sticky communities department logan group
+DOC_0000000098,05/27/2025 06:33,Partially Extracted,PO Invoice,38986,05/03/2025,755043024.0,USD,447.39,695.13,"wilson, schneider and lynn",Embrace vertical channels department cobb-mcguire
+DOC_0000000099,06/25/2025 13:27,Partially Extracted,Non-PO Invoice,34184,06/23/2025,755043674.0,EUR,334.47,1758.5,"gray, charles and griffin","Optimize compelling architectures department bond, sellers and hughes"
+DOC_0000000100,07/04/2025 18:29,Extracted,Non-PO Invoice,32277,06/02/2025,,EUR,62.67,2024.01,myers and sons,Iterate integrated technologies department stokes-peterson
+DOC_0000000101,05/06/2025 06:54,Failed,PO Invoice,31504,06/01/2025,,INR,207.95,3771.01,gay-haney,"Empower cross-media e-commerce department white, oliver and chaney"
+DOC_0000000102,07/07/2025 23:15,Extracted,PO Invoice,31930,05/23/2025,755043862.0,EUR,477.98,1936.2,"austin, ramirez and wilson",Redefine magnetic platforms department robertson ltd
+DOC_0000000103,06/04/2025 18:16,Extracted,PO Invoice,33434,05/29/2025,,INR,343.85,1846.11,hoffman-johnson,"Extend scalable web-readiness department lopez, love and roberts"
+DOC_0000000104,06/16/2025 14:31,Extracted,PO Invoice,37349,06/27/2025,755043822.0,MYR,359.63,2080.43,"lindsey, moreno and bailey",Extend intuitive convergence department hooper-wade
+DOC_0000000105,05/15/2025 17:55,Failed,PO Invoice,32517,06/01/2025,,USD,15.66,1526.65,ritter inc,Iterate compelling info-mediaries department marshall-hughes
+DOC_0000000106,05/11/2025 05:37,Failed,Non-PO Invoice,39024,05/16/2025,755043925.0,USD,23.76,3105.42,padilla plc,Extend leading-edge mindshare department bell-walker
+DOC_0000000107,07/06/2025 07:11,Partially Extracted,PO Invoice,37960,06/08/2025,,USD,475.76,3969.29,"perkins, stone and hester",Brand viral technologies department sandoval inc
+DOC_0000000108,05/06/2025 16:46,Failed,PO Invoice,38068,07/16/2025,755043606.0,INR,90.51,4575.5,myers llc,"Evolve one-to-one roi department carroll, reynolds and stein"
+DOC_0000000109,06/13/2025 01:30,Extracted,Non-PO Invoice,33057,06/05/2025,755043555.0,MYR,403.88,3510.32,"mann, blankenship and hayes","Monetize front-end systems department myers, bolton and cameron"
+DOC_0000000110,05/02/2025 19:55,Partially Extracted,Non-PO Invoice,31382,05/13/2025,,USD,486.6,3237.95,walker and sons,"Aggregate ubiquitous synergies department martin, braun and morrison"
+DOC_0000000111,07/06/2025 06:55,Extracted,PO Invoice,37341,06/04/2025,755043629.0,USD,491.15,2790.88,"davis, lopez and evans",Unleash b2b technologies department warren-walsh
+DOC_0000000112,05/02/2025 21:08,Failed,PO Invoice,38457,05/09/2025,755043553.0,EUR,379.82,1204.75,allison inc,"Cultivate collaborative e-services department booth, wilson and george"
+DOC_0000000113,07/17/2025 07:11,Extracted,Non-PO Invoice,31145,06/18/2025,755043821.0,MYR,145.48,4212.53,cross group,Engineer cross-media functionalities department dean inc
+DOC_0000000114,07/11/2025 18:09,Extracted,Non-PO Invoice,33174,06/11/2025,,EUR,498.15,4290.41,"whitney, taylor and rice","Innovate holistic info-mediaries department nguyen, jacobs and riddle"
+DOC_0000000115,05/28/2025 01:34,Extracted,PO Invoice,34653,05/04/2025,755043141.0,EUR,229.74,2609.36,gutierrez-nicholson,Streamline interactive e-markets department robertson inc
+DOC_0000000116,07/02/2025 16:49,Partially Extracted,Non-PO Invoice,37202,04/22/2025,755043124.0,MYR,419.56,2669.28,"roberts, scott and wise","Grow open-source e-services department smith, johnson and wilson"
+DOC_0000000117,04/19/2025 19:40,Partially Extracted,Non-PO Invoice,35775,04/19/2025,,EUR,250.14,3449.38,hunter llc,Engage granular channels department cordova ltd
+DOC_0000000118,06/04/2025 01:20,Partially Extracted,PO Invoice,38971,05/29/2025,755043534.0,EUR,361.77,3185.0,"terrell, frank and smith",Repurpose b2b vortals department osborne group
+DOC_0000000119,07/17/2025 01:06,Failed,PO Invoice,31308,06/10/2025,755043627.0,INR,49.32,4542.39,"smith, kelly and flores","Whiteboard revolutionary systems department grimes, wilkins and rodgers"
+DOC_0000000120,05/13/2025 16:28,Extracted,Non-PO Invoice,38833,05/10/2025,,MYR,457.51,718.02,mueller group,Revolutionize cutting-edge technologies department long llc
+DOC_0000000121,06/23/2025 19:51,Failed,Non-PO Invoice,34183,06/07/2025,,USD,480.93,4058.44,schultz-salinas,Morph user-centric schemas department keller-rivas
+DOC_0000000122,05/12/2025 06:59,Extracted,Non-PO Invoice,33060,05/24/2025,755043503.0,MYR,371.21,3393.33,mcknight-baker,"Grow seamless solutions department daniels, mitchell and pugh"
+DOC_0000000123,07/13/2025 16:40,Partially Extracted,Non-PO Invoice,37997,05/13/2025,755043362.0,INR,179.4,4672.11,lamb inc,"Extend vertical e-commerce department thomas, anderson and hamilton"
+DOC_0000000124,06/16/2025 02:15,Failed,PO Invoice,33125,05/14/2025,,MYR,251.06,1509.29,"shields, russo and lawson","Maximize cross-platform methodologies department hudson, barnes and james"
+DOC_0000000125,06/09/2025 19:19,Failed,PO Invoice,38337,06/16/2025,,MYR,30.85,325.63,"morgan, bradley and garcia",Scale viral portals department sharp ltd
+DOC_0000000126,05/18/2025 23:20,Partially Extracted,Non-PO Invoice,31801,06/11/2025,,USD,231.23,2259.95,gomez group,"Engage plug-and-play supply-chains department lopez, walker and cabrera"
+DOC_0000000127,05/26/2025 07:32,Extracted,PO Invoice,39865,06/29/2025,755043372.0,INR,268.6,897.22,soto-lewis,Reinvent one-to-one systems department evans-jones
+DOC_0000000128,05/08/2025 12:28,Failed,PO Invoice,35783,06/19/2025,,INR,259.97,4672.41,howard group,"Incentivize vertical e-markets department martinez, bauer and adams"
+DOC_0000000129,06/20/2025 05:18,Failed,PO Invoice,37172,04/18/2025,755043714.0,INR,122.86,1454.24,martin ltd,Synthesize 24/7 supply-chains department wise-austin
+DOC_0000000130,05/05/2025 02:57,Extracted,PO Invoice,37959,06/07/2025,,USD,161.35,4390.22,fowler llc,Revolutionize one-to-one interfaces department blankenship-yang
+DOC_0000000131,06/08/2025 04:54,Partially Extracted,Non-PO Invoice,31713,06/26/2025,,INR,459.23,465.52,"robinson, lee and brown","Incentivize frictionless applications department stewart, roberts and spencer"
+DOC_0000000132,05/31/2025 02:07,Failed,Non-PO Invoice,36807,06/07/2025,755043560.0,EUR,241.19,3901.42,"nelson, schneider and roberts",Optimize intuitive markets department owens-trevino
+DOC_0000000133,05/02/2025 15:26,Partially Extracted,PO Invoice,38571,06/22/2025,755043186.0,EUR,276.78,393.89,"patterson, young and marshall",Monetize killer paradigms department key inc
+DOC_0000000134,05/11/2025 15:31,Extracted,Non-PO Invoice,38679,05/02/2025,755043907.0,MYR,273.36,829.02,levy-mccarthy,Whiteboard cutting-edge e-markets department morris group
+DOC_0000000135,06/06/2025 12:14,Failed,PO Invoice,30603,06/17/2025,,USD,98.71,2305.74,rocha inc,"Maximize one-to-one initiatives department gentry, snyder and banks"
+DOC_0000000136,05/12/2025 19:49,Extracted,Non-PO Invoice,38764,05/26/2025,,USD,52.76,4718.86,hahn-howard,"Syndicate bleeding-edge e-business department roth, johnson and nolan"
+DOC_0000000137,05/09/2025 09:52,Partially Extracted,Non-PO Invoice,31418,04/20/2025,,EUR,347.76,2996.71,gomez plc,"Scale dynamic mindshare department beasley, blake and robles"
+DOC_0000000138,05/21/2025 18:26,Failed,PO Invoice,36337,05/17/2025,755043904.0,EUR,126.18,3567.47,"hicks, taylor and goodwin",E-enable best-of-breed solutions department klein llc
+DOC_0000000139,07/16/2025 15:35,Failed,Non-PO Invoice,38038,05/13/2025,755043312.0,EUR,384.97,3602.55,johnson-garcia,Transform bleeding-edge initiatives department ball and sons
+DOC_0000000140,05/31/2025 09:02,Failed,Non-PO Invoice,30963,07/01/2025,755043723.0,MYR,423.96,1254.26,harris-sloan,Deploy dynamic communities department davis-cox
+DOC_0000000141,06/17/2025 22:23,Extracted,PO Invoice,38475,04/21/2025,,EUR,15.54,2845.12,collins llc,"Integrate innovative infrastructures department salazar, bernard and rogers"
+DOC_0000000142,04/21/2025 13:08,Extracted,Non-PO Invoice,37083,06/24/2025,,MYR,109.9,2679.64,walton-morales,"Grow revolutionary e-business department thompson, chandler and ellis"
+DOC_0000000143,04/29/2025 10:09,Extracted,Non-PO Invoice,34590,05/22/2025,755043411.0,INR,228.44,3015.69,bowers plc,Synthesize bricks-and-clicks users department walker-mills
+DOC_0000000144,04/29/2025 19:34,Failed,PO Invoice,38222,07/11/2025,,EUR,6.62,548.2,evans inc,Exploit vertical supply-chains department cisneros and sons
+DOC_0000000145,04/22/2025 16:20,Failed,Non-PO Invoice,31202,06/30/2025,,USD,64.14,1290.64,stanley-mccoy,"Synergize holistic experiences department good, manning and carlson"
+DOC_0000000146,06/02/2025 08:41,Failed,PO Invoice,30029,06/21/2025,755043595.0,INR,302.69,3662.58,graham-gonzalez,Evolve front-end info-mediaries department garcia-webster
+DOC_0000000147,06/16/2025 10:13,Partially Extracted,PO Invoice,38358,05/24/2025,755043053.0,MYR,490.76,391.87,"carter, thompson and wells",Streamline leading-edge info-mediaries department martinez-mullins
+DOC_0000000148,07/03/2025 04:28,Partially Extracted,PO Invoice,33416,07/15/2025,,EUR,466.16,2634.31,jackson llc,Drive efficient partnerships department price-patterson
+DOC_0000000149,06/11/2025 21:07,Failed,PO Invoice,35074,04/19/2025,,INR,281.7,4449.57,taylor-brock,"Scale dot-com synergies department silva, thompson and harris"
+DOC_0000000150,07/09/2025 19:21,Partially Extracted,Non-PO Invoice,34479,06/04/2025,755043635.0,USD,417.33,3326.68,brown and sons,Transform customized functionalities department baldwin-fuller
+DOC_0000000151,04/27/2025 15:52,Extracted,Non-PO Invoice,37386,06/04/2025,755043826.0,MYR,267.42,714.67,"morales, meyer and phillips","Productize integrated schemas department herring, hale and ward"
+DOC_0000000152,06/24/2025 20:47,Extracted,PO Invoice,31502,05/12/2025,,EUR,167.85,4169.26,craig-green,Morph killer methodologies department mckay-dunlap
+DOC_0000000153,05/13/2025 20:58,Extracted,Non-PO Invoice,39660,07/08/2025,,INR,6.16,3183.53,smith plc,E-enable cross-platform initiatives department larson-fritz
+DOC_0000000154,04/24/2025 21:27,Failed,Non-PO Invoice,33136,05/16/2025,,USD,90.0,879.1,hernandez-campbell,Reinvent holistic models department rodriguez inc
+DOC_0000000155,05/29/2025 16:25,Partially Extracted,Non-PO Invoice,31919,04/28/2025,,USD,233.06,2291.42,"santana, smith and wheeler",Optimize dot-com web services department herrera-brown
+DOC_0000000156,06/17/2025 17:47,Partially Extracted,PO Invoice,30813,07/16/2025,,EUR,69.93,2302.34,williams and sons,"Iterate wireless partnerships department stanley, tran and pruitt"
+DOC_0000000157,05/21/2025 07:28,Extracted,Non-PO Invoice,39122,05/31/2025,,EUR,202.7,3160.65,"martinez, mccullough and duran",Incubate impactful synergies department vargas plc
+DOC_0000000158,06/05/2025 15:46,Failed,PO Invoice,30845,05/02/2025,755043048.0,INR,14.29,4235.41,"graham, cochran and chambers",Target magnetic channels department price llc
+DOC_0000000159,07/04/2025 16:27,Failed,Non-PO Invoice,39461,05/19/2025,755043121.0,USD,108.46,1562.14,"sullivan, smith and singleton",Facilitate user-centric paradigms department park-ritter
+DOC_0000000160,07/01/2025 10:28,Extracted,PO Invoice,34527,05/17/2025,,EUR,224.79,259.69,reynolds plc,Leverage dynamic supply-chains department pearson-rogers
+DOC_0000000161,06/11/2025 08:49,Failed,Non-PO Invoice,34406,06/19/2025,755043370.0,EUR,442.65,2040.53,cameron and sons,Engineer bricks-and-clicks architectures department henderson-martin
+DOC_0000000162,07/11/2025 18:34,Partially Extracted,PO Invoice,34718,06/30/2025,755043546.0,USD,100.81,4757.97,miller-gonzales,"Utilize clicks-and-mortar platforms department rodriguez, robinson and crawford"
+DOC_0000000163,06/09/2025 13:40,Partially Extracted,Non-PO Invoice,37299,07/08/2025,755043564.0,INR,395.11,2322.54,cole-jones,Leverage extensible markets department murray and sons
+DOC_0000000164,05/01/2025 01:16,Partially Extracted,PO Invoice,32324,05/23/2025,755043242.0,MYR,67.29,3110.76,gonzalez plc,"Redefine one-to-one platforms department lester, barker and smith"
+DOC_0000000165,06/28/2025 15:57,Partially Extracted,PO Invoice,38873,06/27/2025,,INR,339.64,2257.42,"mccarty, pearson and kelly",Envisioneer back-end e-business department payne-welch
+DOC_0000000166,05/11/2025 15:43,Extracted,Non-PO Invoice,35333,06/01/2025,755043689.0,USD,44.62,3753.31,"reilly, brown and jensen",Enable mission-critical roi department larson inc
+DOC_0000000167,06/02/2025 01:05,Extracted,Non-PO Invoice,30494,06/04/2025,755043142.0,USD,156.91,3706.03,"lawson, gutierrez and preston",Leverage extensible communities department west-brown
+DOC_0000000168,07/08/2025 04:22,Failed,PO Invoice,38202,07/10/2025,755043284.0,MYR,247.48,4111.29,jones-evans,Cultivate magnetic mindshare department george plc
+DOC_0000000169,07/03/2025 17:10,Partially Extracted,Non-PO Invoice,38692,07/14/2025,,EUR,39.63,1740.65,cox and sons,"Reinvent robust infrastructures department hernandez, johnson and marsh"
+DOC_0000000170,07/13/2025 22:10,Failed,Non-PO Invoice,33154,04/27/2025,755043967.0,INR,322.91,3745.43,wood-stevens,"Facilitate magnetic portals department bell, barrett and harris"
+DOC_0000000171,07/13/2025 02:45,Extracted,PO Invoice,32599,05/24/2025,755043417.0,MYR,489.16,1292.4,pearson-gibson,Facilitate one-to-one paradigms department owen-porter
+DOC_0000000172,06/30/2025 01:50,Failed,Non-PO Invoice,39268,06/03/2025,,EUR,413.59,3998.36,nguyen group,"Re-intermediate open-source functionalities department griffin, heath and green"
+DOC_0000000173,04/26/2025 13:45,Failed,PO Invoice,32889,05/30/2025,,INR,82.65,4158.41,garcia inc,"Visualize one-to-one channels department aguirre, ibarra and brown"
+DOC_0000000174,06/25/2025 16:18,Failed,Non-PO Invoice,32480,05/22/2025,,EUR,424.51,2457.45,rodriguez-woodard,"Incubate intuitive initiatives department jones, olson and torres"
+DOC_0000000175,06/04/2025 10:10,Partially Extracted,PO Invoice,37322,06/10/2025,,EUR,494.3,3236.82,nelson group,Morph seamless applications department hernandez-bishop
+DOC_0000000176,05/06/2025 16:46,Extracted,Non-PO Invoice,34249,05/29/2025,,EUR,4.4,1152.9,rose-hayden,Grow strategic synergies department anderson group
+DOC_0000000177,04/25/2025 01:40,Extracted,Non-PO Invoice,38791,06/06/2025,,INR,3.76,495.76,gonzalez-silva,Evolve plug-and-play action-items department mosley llc
+DOC_0000000178,05/24/2025 01:38,Failed,Non-PO Invoice,31572,05/12/2025,,INR,449.13,708.87,"thomas, stevens and fry","Innovate world-class deliverables department baker, harrison and dominguez"
+DOC_0000000179,07/12/2025 22:06,Partially Extracted,PO Invoice,38138,06/23/2025,,INR,64.63,3183.0,washington-morton,Brand interactive niches department kim-spencer
+DOC_0000000180,06/24/2025 16:15,Partially Extracted,Non-PO Invoice,35624,06/26/2025,,USD,293.48,4499.43,"smith, sutton and fletcher","Transition sticky functionalities department sims, chaney and dillon"
+DOC_0000000181,04/28/2025 14:56,Partially Extracted,PO Invoice,31527,06/25/2025,,INR,105.94,3759.1,sloan-rice,"Incubate visionary communities department fleming, perry and miller"
+DOC_0000000182,05/31/2025 18:59,Failed,PO Invoice,33290,04/24/2025,755043332.0,MYR,339.9,3364.78,"benson, flowers and johnson","Enable dynamic technologies department garza, martin and dyer"
+DOC_0000000183,05/24/2025 07:08,Failed,PO Invoice,37445,06/06/2025,,EUR,108.23,4876.55,monroe-gilmore,"Re-contextualize collaborative content department martinez, watkins and walker"
+DOC_0000000184,07/15/2025 17:59,Partially Extracted,Non-PO Invoice,34625,07/10/2025,755043574.0,USD,46.22,1475.96,jones ltd,Incubate cross-platform portals department farrell-henry
+DOC_0000000185,07/03/2025 16:33,Failed,Non-PO Invoice,35185,06/16/2025,755043681.0,USD,404.46,2611.46,"delgado, burch and mata",E-enable revolutionary solutions department rios-peters
+DOC_0000000186,04/24/2025 09:37,Extracted,Non-PO Invoice,34353,05/24/2025,755043732.0,MYR,452.74,859.63,fisher-armstrong,"Seize back-end functionalities department bradley, potter and armstrong"
+DOC_0000000187,04/19/2025 17:45,Partially Extracted,PO Invoice,33370,05/11/2025,755043067.0,USD,73.42,2982.04,moore inc,Harness 24/365 infrastructures department sanders group
+DOC_0000000188,06/20/2025 22:06,Extracted,PO Invoice,37981,04/26/2025,,EUR,242.59,1385.91,carter-harrison,Engineer extensible users department yates inc
+DOC_0000000189,06/19/2025 17:37,Failed,Non-PO Invoice,30172,04/25/2025,,USD,409.3,2889.45,fowler group,Synthesize integrated e-commerce department roberts group
+DOC_0000000190,05/03/2025 01:52,Extracted,PO Invoice,34753,04/19/2025,,INR,495.85,2752.62,chandler-craig,"Engineer innovative e-business department duncan, myers and martinez"
+DOC_0000000191,05/29/2025 14:39,Failed,Non-PO Invoice,32953,05/17/2025,,MYR,422.93,2482.1,hodges-harrison,Visualize real-time platforms department robinson group
+DOC_0000000192,05/13/2025 01:31,Extracted,PO Invoice,36641,05/06/2025,,MYR,62.7,487.59,"wood, evans and burns",Visualize turn-key roi department simmons inc
+DOC_0000000193,05/01/2025 15:29,Extracted,Non-PO Invoice,33839,07/13/2025,,INR,432.78,4978.49,"mejia, hall and stephens","Productize seamless action-items department mccarthy, rivas and davis"
+DOC_0000000194,07/02/2025 14:07,Failed,Non-PO Invoice,37879,07/07/2025,755043859.0,INR,247.2,1329.63,"hogan, ramirez and dunn","Matrix scalable initiatives department english, roberts and davis"
+DOC_0000000195,07/09/2025 04:55,Failed,Non-PO Invoice,34665,06/11/2025,,USD,63.43,1072.22,hines and sons,"Maximize wireless experiences department moore, johnson and hubbard"
+DOC_0000000196,04/21/2025 22:03,Extracted,Non-PO Invoice,36879,06/07/2025,,USD,304.9,1912.42,williams inc,Incubate front-end experiences department adams group
+DOC_0000000197,05/30/2025 03:36,Extracted,Non-PO Invoice,39259,07/15/2025,755043489.0,INR,275.25,1916.64,"matthews, young and adams",Repurpose turn-key networks department harper and sons
+DOC_0000000198,05/09/2025 09:31,Partially Extracted,Non-PO Invoice,33954,05/30/2025,755043261.0,USD,462.7,1126.55,gordon-evans,"Incubate cutting-edge functionalities department newman, oneal and curry"
+DOC_0000000199,06/23/2025 19:00,Partially Extracted,PO Invoice,39317,07/15/2025,,INR,20.68,2290.23,solis-myers,Repurpose 24/7 deliverables department santos plc
+DOC_0000000200,07/08/2025 21:36,Failed,PO Invoice,32257,07/11/2025,755043797.0,EUR,77.21,2471.84,"sanders, kirby and hart",Synergize cross-platform portals department thompson llc
+DOC_0000000201,07/04/2025 06:53,Extracted,Non-PO Invoice,30269,06/26/2025,,MYR,22.78,1964.87,mccarty-mathis,Evolve real-time e-business department chan-huerta
+DOC_0000000202,06/17/2025 21:52,Failed,PO Invoice,32279,05/02/2025,755043404.0,EUR,278.37,1258.7,aguilar-harris,Matrix proactive web-readiness department gibson-greene
+DOC_0000000203,06/19/2025 10:34,Failed,Non-PO Invoice,32664,05/07/2025,,EUR,432.54,919.48,preston-bradley,Scale sticky e-services department mosley-price
+DOC_0000000204,05/02/2025 04:49,Partially Extracted,PO Invoice,38112,07/09/2025,,MYR,155.98,2780.13,owens plc,Extend extensible functionalities department young-mccarthy
+DOC_0000000205,06/14/2025 10:08,Failed,PO Invoice,34364,04/18/2025,755043815.0,USD,461.28,1500.33,sparks llc,Benchmark collaborative methodologies department williams-warren
+DOC_0000000206,07/02/2025 21:00,Partially Extracted,PO Invoice,35915,05/26/2025,,EUR,180.57,3698.88,munoz-davis,Facilitate virtual e-markets department jackson-cardenas
+DOC_0000000207,05/01/2025 22:06,Extracted,PO Invoice,34637,07/12/2025,,USD,199.96,2232.89,turner inc,Enable bricks-and-clicks deliverables department martinez inc
+DOC_0000000208,07/05/2025 17:01,Extracted,Non-PO Invoice,34823,05/29/2025,755043938.0,MYR,165.47,3007.09,"castillo, sutton and lloyd","Exploit distributed info-mediaries department bray, wagner and bender"
+DOC_0000000209,06/14/2025 22:49,Extracted,PO Invoice,39017,06/11/2025,,MYR,3.48,1191.76,"green, hayes and cole",Deploy bricks-and-clicks communities department harris-stephens
+DOC_0000000210,07/03/2025 19:13,Extracted,PO Invoice,35932,04/20/2025,755043092.0,MYR,388.37,4836.38,thornton-johnson,Utilize b2c supply-chains department gardner llc
+DOC_0000000211,04/30/2025 04:35,Partially Extracted,PO Invoice,35387,05/21/2025,755043982.0,EUR,71.21,4668.5,"cruz, bowman and munoz",Harness next-generation niches department chavez-cain
+DOC_0000000212,05/10/2025 14:10,Partially Extracted,PO Invoice,33037,06/01/2025,755043824.0,USD,72.01,2660.43,atkinson-pugh,"Implement robust experiences department scott, brown and harper"
+DOC_0000000213,04/26/2025 06:44,Extracted,PO Invoice,32187,07/11/2025,,USD,120.47,2913.6,gregory plc,Incentivize dynamic technologies department rios-gomez
+DOC_0000000214,07/09/2025 17:41,Partially Extracted,Non-PO Invoice,34341,06/07/2025,,INR,456.51,513.32,"johnson, long and brock",Aggregate dot-com mindshare department pena-robertson
+DOC_0000000215,07/09/2025 10:36,Partially Extracted,PO Invoice,30905,05/29/2025,755043695.0,MYR,308.49,2828.65,"horn, jones and bell",Syndicate plug-and-play paradigms department johnson and sons
+DOC_0000000216,05/03/2025 21:12,Extracted,Non-PO Invoice,31735,06/16/2025,755043923.0,INR,247.05,4599.88,"nelson, rice and duffy",Scale b2b web services department george group
+DOC_0000000217,06/01/2025 20:41,Partially Extracted,Non-PO Invoice,38957,05/08/2025,755043438.0,USD,394.39,3253.29,fernandez group,Re-intermediate vertical functionalities department newman inc
+DOC_0000000218,07/06/2025 05:15,Extracted,PO Invoice,38752,05/10/2025,,MYR,175.59,4131.71,"armstrong, rivers and nguyen",Leverage robust experiences department simpson and sons
+DOC_0000000219,04/28/2025 16:56,Partially Extracted,PO Invoice,35347,06/03/2025,755043550.0,INR,27.55,933.85,crawford llc,Streamline rich platforms department martinez group
+DOC_0000000220,06/21/2025 09:12,Partially Extracted,PO Invoice,35200,05/12/2025,755043693.0,MYR,351.51,4853.66,austin-watson,"Evolve holistic e-markets department gonzalez, johnson and oconnor"
+DOC_0000000221,05/08/2025 01:00,Failed,PO Invoice,37081,06/19/2025,755043608.0,USD,281.23,1789.66,faulkner-swanson,Expedite frictionless e-markets department bond-hanna
+DOC_0000000222,05/27/2025 15:52,Failed,Non-PO Invoice,32798,06/19/2025,,USD,116.97,608.02,lewis group,Redefine turn-key experiences department ortiz group
+DOC_0000000223,04/25/2025 11:16,Partially Extracted,PO Invoice,36638,04/26/2025,755043509.0,EUR,345.25,3288.94,west ltd,Engineer 24/7 e-tailers department costa-rose
+DOC_0000000224,07/14/2025 20:41,Failed,Non-PO Invoice,31176,05/23/2025,,EUR,449.27,2590.6,"torres, wilson and cross",Aggregate turn-key users department case-le
+DOC_0000000225,06/28/2025 01:42,Partially Extracted,Non-PO Invoice,37338,06/06/2025,755043194.0,EUR,460.11,2841.93,"diaz, brown and daniels",Exploit plug-and-play networks department bennett-stanley
+DOC_0000000226,06/30/2025 08:34,Extracted,PO Invoice,37342,05/07/2025,,USD,380.0,3485.6,bryant plc,"Deliver mission-critical deliverables department benton, chavez and hardin"
+DOC_0000000227,06/10/2025 22:51,Extracted,Non-PO Invoice,38268,06/15/2025,755043652.0,EUR,236.61,2998.63,"francis, steele and gibson",Synergize vertical systems department lopez ltd
+DOC_0000000228,07/03/2025 00:50,Partially Extracted,PO Invoice,32313,07/07/2025,,MYR,128.37,1797.73,warren plc,"Maximize real-time channels department hughes, wood and cardenas"
+DOC_0000000229,05/29/2025 14:15,Failed,PO Invoice,37838,04/29/2025,,USD,189.29,2734.92,"jacobs, king and martinez",Enable granular portals department gray-boyd
+DOC_0000000230,04/30/2025 01:53,Partially Extracted,Non-PO Invoice,33625,06/01/2025,,MYR,114.9,1145.24,allen-jordan,Optimize end-to-end functionalities department rose-johnson
+DOC_0000000231,05/19/2025 14:34,Extracted,PO Invoice,33373,07/07/2025,,INR,8.53,4844.51,"reed, jacobs and hull","Scale one-to-one technologies department kennedy, williams and velazquez"
+DOC_0000000232,06/25/2025 10:42,Failed,Non-PO Invoice,34405,05/16/2025,,INR,295.05,2031.98,hayes llc,"Brand cross-platform bandwidth department henry, robinson and gray"
+DOC_0000000233,04/23/2025 11:00,Extracted,Non-PO Invoice,33756,04/25/2025,755043342.0,EUR,79.84,4128.89,"evans, kim and welch",Repurpose turn-key communities department clark and sons
+DOC_0000000234,05/02/2025 03:51,Partially Extracted,Non-PO Invoice,36044,05/20/2025,,MYR,341.37,529.34,"preston, freeman and cook",Grow vertical e-business department valenzuela llc
+DOC_0000000235,06/26/2025 18:18,Failed,PO Invoice,39506,04/18/2025,755043379.0,MYR,407.56,4668.67,"taylor, duncan and schmitt",Exploit scalable info-mediaries department cole-nguyen
+DOC_0000000236,07/15/2025 07:22,Failed,PO Invoice,33532,04/28/2025,,MYR,382.38,4497.01,martin plc,Benchmark open-source technologies department green plc
+DOC_0000000237,04/27/2025 06:05,Failed,PO Invoice,30816,07/15/2025,,MYR,333.7,4860.37,"decker, russell and rogers",Scale out-of-the-box e-commerce department kirby-parker
+DOC_0000000238,05/27/2025 01:42,Extracted,Non-PO Invoice,33054,05/02/2025,755043578.0,MYR,268.88,2030.59,banks-fisher,Expedite real-time solutions department keller ltd
+DOC_0000000239,06/09/2025 22:46,Partially Extracted,Non-PO Invoice,37566,05/28/2025,755043118.0,INR,200.24,233.84,jones inc,Morph leading-edge infrastructures department leonard plc
+DOC_0000000240,05/04/2025 17:30,Failed,PO Invoice,30468,07/13/2025,,USD,39.79,1544.85,wright-peterson,"Enhance rich interfaces department johnson, johnston and wilson"
+DOC_0000000241,05/11/2025 05:01,Failed,Non-PO Invoice,35905,07/14/2025,755043834.0,INR,237.14,1606.33,rogers group,Exploit global roi department davis-williams
+DOC_0000000242,07/09/2025 13:14,Failed,Non-PO Invoice,34349,07/12/2025,755043386.0,INR,251.98,327.5,"weiss, chapman and figueroa",Evolve ubiquitous networks department butler inc
+DOC_0000000243,05/21/2025 06:02,Failed,PO Invoice,35311,06/15/2025,755043418.0,USD,193.65,1629.09,guerra inc,Embrace virtual action-items department huber-wright
+DOC_0000000244,04/21/2025 12:57,Failed,Non-PO Invoice,35993,05/06/2025,755043740.0,MYR,132.44,976.91,adams group,"Visualize 24/7 mindshare department wang, medina and welch"
+DOC_0000000245,06/21/2025 01:22,Partially Extracted,Non-PO Invoice,30449,06/14/2025,,EUR,492.94,348.61,harris-greene,Transform holistic technologies department lewis-nichols
+DOC_0000000246,05/25/2025 03:03,Extracted,PO Invoice,37939,06/01/2025,,EUR,155.42,1494.65,higgins ltd,"Unleash sticky infrastructures department mejia, rivas and chen"
+DOC_0000000247,05/30/2025 13:35,Failed,Non-PO Invoice,32359,07/06/2025,,INR,154.22,1622.59,cohen plc,Repurpose extensible e-tailers department phillips-english
+DOC_0000000248,05/08/2025 17:50,Extracted,PO Invoice,37634,04/29/2025,,INR,83.66,3188.89,"fowler, simpson and allen",Exploit value-added roi department dean-robinson
+DOC_0000000249,06/28/2025 07:13,Extracted,Non-PO Invoice,36000,05/16/2025,,USD,495.83,1925.41,"higgins, molina and kent",Envisioneer viral experiences department young plc
+DOC_0000000250,05/19/2025 09:57,Extracted,PO Invoice,39364,05/21/2025,,INR,177.85,813.96,"berry, sheppard and jensen","Benchmark cross-platform architectures department green, fisher and maxwell"
+DOC_0000000251,06/11/2025 13:17,Extracted,Non-PO Invoice,38220,05/13/2025,,USD,477.46,2598.28,lawson ltd,Innovate vertical roi department barnes and sons
+DOC_0000000252,06/12/2025 11:04,Extracted,Non-PO Invoice,34231,05/06/2025,,EUR,230.46,1046.64,"marks, meadows and white",Morph interactive schemas department fletcher plc
+DOC_0000000253,04/20/2025 13:17,Extracted,Non-PO Invoice,31350,06/25/2025,755043536.0,INR,112.49,3186.23,russo-mitchell,"Orchestrate real-time portals department jacobson, daniels and crawford"
+DOC_0000000254,04/24/2025 10:17,Failed,Non-PO Invoice,33626,04/25/2025,755043206.0,USD,240.37,1455.99,"reyes, orr and daniels","Integrate global vortals department holmes, byrd and williams"
+DOC_0000000255,05/31/2025 13:22,Failed,Non-PO Invoice,38161,04/19/2025,,EUR,280.61,1022.48,rodriguez llc,"Transition customized technologies department ferguson, graham and reilly"
+DOC_0000000256,06/05/2025 20:44,Partially Extracted,Non-PO Invoice,34546,06/06/2025,,EUR,295.65,661.33,brady-klein,Incubate real-time networks department johnson ltd
+DOC_0000000257,05/23/2025 10:46,Extracted,PO Invoice,37312,07/01/2025,755043111.0,MYR,355.49,629.42,"fletcher, collins and dean",Strategize clicks-and-mortar functionalities department moss and sons
+DOC_0000000258,05/18/2025 05:22,Partially Extracted,Non-PO Invoice,38202,04/23/2025,755043696.0,INR,308.97,3905.88,nunez inc,Leverage bleeding-edge paradigms department norris-hunter
+DOC_0000000259,06/29/2025 06:00,Failed,Non-PO Invoice,32499,07/05/2025,755043925.0,INR,381.57,1171.5,mathis inc,"Incentivize open-source e-services department silva, trevino and brown"
+DOC_0000000260,04/29/2025 01:52,Extracted,PO Invoice,35811,05/04/2025,,USD,58.01,2102.72,"holmes, ford and parker",Reinvent dot-com infrastructures department duncan llc
+DOC_0000000261,07/02/2025 17:57,Extracted,Non-PO Invoice,39999,06/18/2025,755043044.0,INR,68.31,224.43,ferrell-ellison,Exploit innovative architectures department watson-townsend
+DOC_0000000262,05/11/2025 23:17,Failed,Non-PO Invoice,33927,05/20/2025,755043809.0,USD,353.93,3047.49,castillo plc,Reinvent ubiquitous relationships department blake llc
+DOC_0000000263,04/20/2025 17:11,Extracted,Non-PO Invoice,31896,05/25/2025,,EUR,400.66,4337.63,shields group,"Extend out-of-the-box applications department west, brown and holt"
+DOC_0000000264,04/21/2025 12:10,Partially Extracted,PO Invoice,30917,06/14/2025,,USD,257.79,2456.49,todd and sons,Extend virtual content department morales ltd
+DOC_0000000265,06/08/2025 00:40,Failed,PO Invoice,30730,06/20/2025,,USD,167.8,2335.77,collins-smith,"Architect virtual convergence department norton, thornton and little"
+DOC_0000000266,05/04/2025 04:22,Extracted,Non-PO Invoice,34561,07/14/2025,,MYR,429.61,4106.12,sullivan plc,Reinvent cutting-edge mindshare department baxter inc
+DOC_0000000267,04/30/2025 04:46,Partially Extracted,Non-PO Invoice,31935,05/20/2025,755043411.0,INR,236.18,3975.68,clarke llc,Syndicate open-source web services department austin-burns
+DOC_0000000268,05/17/2025 07:42,Extracted,PO Invoice,32305,05/23/2025,,INR,476.97,2476.67,mcclure-hammond,Transition clicks-and-mortar schemas department sloan-price
+DOC_0000000269,06/15/2025 00:23,Extracted,PO Invoice,39666,04/27/2025,,USD,248.44,1908.13,"ford, maldonado and spencer","Seize one-to-one mindshare department pugh, perez and dean"
+DOC_0000000270,05/08/2025 01:07,Extracted,PO Invoice,39181,06/27/2025,,USD,280.38,342.94,"carpenter, roberson and white",Deploy revolutionary action-items department moore plc
+DOC_0000000271,05/20/2025 12:33,Partially Extracted,PO Invoice,34250,05/20/2025,755043050.0,EUR,38.57,1871.51,tran-dodson,"Integrate real-time experiences department arellano, bright and wood"
+DOC_0000000272,05/08/2025 02:09,Extracted,PO Invoice,37531,05/28/2025,755043457.0,EUR,416.91,3122.32,barr-carr,"Orchestrate sticky vortals department reyes, lewis and blanchard"
+DOC_0000000273,06/25/2025 01:49,Extracted,Non-PO Invoice,31987,06/05/2025,755043117.0,INR,43.48,2808.67,"mathews, stafford and contreras",Optimize robust deliverables department harris plc
+DOC_0000000274,05/16/2025 07:45,Failed,PO Invoice,30886,07/10/2025,755043968.0,EUR,257.96,4361.83,garcia llc,Reinvent vertical methodologies department brown group
+DOC_0000000275,04/23/2025 03:00,Extracted,PO Invoice,38105,07/09/2025,755043977.0,USD,327.11,2635.59,baldwin plc,Revolutionize holistic channels department sanders group
+DOC_0000000276,07/02/2025 09:55,Partially Extracted,Non-PO Invoice,31158,06/04/2025,,USD,31.24,798.66,"shelton, lopez and craig",Re-contextualize seamless web-readiness department martinez-rodriguez
+DOC_0000000277,04/19/2025 23:14,Failed,Non-PO Invoice,33961,04/20/2025,,USD,131.03,2613.11,benjamin ltd,Implement cutting-edge paradigms department hardin-allen
+DOC_0000000278,05/10/2025 19:40,Extracted,Non-PO Invoice,39606,05/18/2025,,MYR,414.16,1531.23,olson inc,Evolve compelling channels department benson-jacobson
+DOC_0000000279,07/13/2025 10:35,Extracted,Non-PO Invoice,35486,05/13/2025,755043550.0,INR,133.25,3272.36,"frost, walton and moore",Disintermediate turn-key functionalities department fleming llc
+DOC_0000000280,04/23/2025 06:33,Partially Extracted,PO Invoice,36006,04/21/2025,755043848.0,EUR,38.17,3389.04,cox inc,Deploy out-of-the-box applications department moore-singh
+DOC_0000000281,05/21/2025 22:36,Extracted,PO Invoice,37623,05/02/2025,755043970.0,EUR,28.99,1568.68,burns-morrow,Unleash integrated platforms department jones group
+DOC_0000000282,07/14/2025 00:01,Extracted,Non-PO Invoice,30138,04/29/2025,,INR,319.51,4556.53,clay-gonzalez,"Seize magnetic mindshare department myers, johnston and hayes"
+DOC_0000000283,06/21/2025 18:21,Extracted,Non-PO Invoice,35137,06/16/2025,,USD,317.77,723.86,"hart, jones and hawkins",Empower virtual synergies department snyder llc
+DOC_0000000284,07/04/2025 02:46,Extracted,PO Invoice,30639,07/12/2025,755043322.0,INR,322.7,1488.77,gonzalez-king,Synthesize bricks-and-clicks content department martin-luna
+DOC_0000000285,04/19/2025 20:22,Failed,Non-PO Invoice,32995,06/21/2025,,MYR,462.96,3225.34,parker plc,Engage rich technologies department rivera-martin
+DOC_0000000286,06/07/2025 17:05,Failed,PO Invoice,36004,06/11/2025,755043732.0,INR,240.74,295.17,carlson-andrews,Benchmark b2b infrastructures department cervantes inc
+DOC_0000000287,05/31/2025 10:03,Partially Extracted,PO Invoice,34501,05/30/2025,,INR,200.59,2415.5,duncan-jones,Incubate b2c e-business department nunez-stevenson
+DOC_0000000288,05/23/2025 21:44,Partially Extracted,Non-PO Invoice,36931,06/17/2025,,USD,254.76,2170.46,"valentine, woods and wright","Benchmark integrated metrics department estes, douglas and beasley"
+DOC_0000000289,07/09/2025 03:11,Failed,Non-PO Invoice,37302,05/11/2025,755043937.0,INR,6.25,4787.6,barnes llc,Deliver customized paradigms department allison-ali
+DOC_0000000290,07/10/2025 01:18,Partially Extracted,PO Invoice,38756,05/30/2025,755043219.0,INR,145.07,3792.52,reilly plc,Matrix web-enabled paradigms department fletcher ltd
+DOC_0000000291,06/05/2025 21:26,Failed,PO Invoice,30090,07/04/2025,,EUR,216.79,1882.23,willis-henry,Cultivate b2c interfaces department cortez group
+DOC_0000000292,05/09/2025 07:51,Failed,PO Invoice,34793,06/10/2025,755043419.0,INR,313.42,1662.66,"navarro, pittman and benton",Strategize b2c roi department guzman group
+DOC_0000000293,06/20/2025 14:25,Failed,Non-PO Invoice,31457,06/24/2025,755043917.0,USD,456.79,4227.0,reed-parker,Synthesize world-class content department black ltd
+DOC_0000000294,07/06/2025 16:22,Failed,PO Invoice,37951,05/01/2025,,MYR,481.74,2926.47,"jones, bonilla and johnson",Repurpose efficient solutions department rocha group
+DOC_0000000295,05/19/2025 22:00,Failed,PO Invoice,33475,07/14/2025,755043517.0,EUR,149.58,869.7,greene and sons,Enhance cross-platform infrastructures department moore inc
+DOC_0000000296,06/24/2025 13:59,Extracted,Non-PO Invoice,30393,07/13/2025,755043846.0,MYR,62.49,3413.24,"jones, turner and brewer","Optimize visionary markets department mitchell, webster and perez"
+DOC_0000000297,04/20/2025 15:29,Partially Extracted,PO Invoice,33353,04/27/2025,,INR,6.97,1038.62,rodriguez inc,"Morph next-generation portals department warner, fisher and barnett"
+DOC_0000000298,06/17/2025 17:28,Partially Extracted,Non-PO Invoice,33451,06/06/2025,,INR,179.82,4864.07,"long, weber and montgomery",Innovate revolutionary relationships department spencer inc
+DOC_0000000299,05/06/2025 15:46,Failed,PO Invoice,32073,06/12/2025,755043862.0,INR,163.66,4744.22,"steele, sanchez and willis",Evolve best-of-breed roi department whitaker-romero
+DOC_0000000300,05/30/2025 21:08,Extracted,PO Invoice,33103,06/03/2025,,INR,412.65,1672.34,"edwards, dennis and mcneil","Innovate cross-platform bandwidth department robinson, castro and allen"
+DOC_0000000301,06/06/2025 07:19,Failed,Non-PO Invoice,33381,07/15/2025,755043471.0,USD,154.66,633.98,oliver-andrews,Harness vertical vortals department williams inc
+DOC_0000000302,04/25/2025 06:56,Partially Extracted,Non-PO Invoice,32862,06/18/2025,,INR,181.21,3793.69,wolf-gutierrez,Architect web-enabled deliverables department sherman-baldwin
+DOC_0000000303,06/08/2025 15:44,Extracted,PO Invoice,30270,07/14/2025,,EUR,274.95,1635.19,"mooney, stafford and compton",Unleash synergistic models department santiago-peterson
+DOC_0000000304,05/03/2025 12:23,Failed,Non-PO Invoice,35900,06/30/2025,,USD,160.83,3348.52,velasquez-morales,Integrate killer web services department smith-owens
+DOC_0000000305,07/14/2025 17:07,Partially Extracted,PO Invoice,33435,07/03/2025,755043260.0,USD,57.76,3085.8,booth group,"Exploit strategic synergies department foster, hoffman and king"
+DOC_0000000306,07/14/2025 09:58,Extracted,PO Invoice,32295,06/21/2025,,USD,341.4,395.46,"ortega, acosta and adams",Redefine cross-media markets department ortiz-martinez
+DOC_0000000307,07/11/2025 19:29,Partially Extracted,Non-PO Invoice,32066,06/28/2025,,USD,247.74,1848.71,fowler and sons,"E-enable intuitive interfaces department rose, buckley and fox"
+DOC_0000000308,05/22/2025 03:07,Extracted,Non-PO Invoice,37169,05/12/2025,,EUR,172.86,2308.5,burton-barrera,Seize 24/365 synergies department giles-moore
+DOC_0000000309,04/29/2025 17:56,Extracted,PO Invoice,32136,07/08/2025,755043562.0,INR,77.74,1162.49,ellis-mccullough,Matrix b2c action-items department parks plc
+DOC_0000000310,06/04/2025 20:43,Extracted,PO Invoice,35797,07/08/2025,,USD,19.4,473.03,thomas-smith,"Incentivize holistic schemas department orozco, morgan and acosta"
+DOC_0000000311,07/03/2025 00:29,Partially Extracted,PO Invoice,36948,04/21/2025,,INR,78.84,3100.74,le-sanders,"Mesh 24/365 schemas department vaughn, waters and rivera"
+DOC_0000000312,07/14/2025 17:36,Extracted,PO Invoice,31569,06/22/2025,,EUR,58.09,3956.39,"garrison, mccann and moore",Integrate ubiquitous methodologies department cole-keller
+DOC_0000000313,04/22/2025 18:41,Extracted,PO Invoice,37347,05/06/2025,755043973.0,MYR,228.6,4510.64,"hall, wright and brown","Engineer b2b functionalities department fields, obrien and ruiz"
+DOC_0000000314,07/13/2025 14:20,Partially Extracted,Non-PO Invoice,36691,06/21/2025,,USD,83.6,756.5,nolan group,"Maximize global systems department downs, cruz and peterson"
+DOC_0000000315,05/18/2025 23:58,Failed,PO Invoice,31572,05/14/2025,,USD,350.93,4478.78,white ltd,"Repurpose integrated initiatives department williams, garrett and smith"
+DOC_0000000316,06/13/2025 09:53,Failed,Non-PO Invoice,34096,06/06/2025,755043131.0,USD,103.58,2563.55,"munoz, lewis and lewis","Grow granular communities department george, wilson and powers"
+DOC_0000000317,04/23/2025 23:39,Extracted,PO Invoice,38039,05/30/2025,,USD,116.07,825.41,garner-barnett,"Exploit synergistic content department carson, mclaughlin and hill"
+DOC_0000000318,05/17/2025 05:35,Extracted,Non-PO Invoice,32372,05/08/2025,,MYR,475.83,4879.26,lee-mclaughlin,"Brand wireless schemas department smith, lee and bradford"
+DOC_0000000319,06/07/2025 01:08,Partially Extracted,Non-PO Invoice,35115,05/22/2025,755043059.0,EUR,55.61,3811.13,"sims, wilson and henderson",Incubate best-of-breed metrics department stein llc
+DOC_0000000320,07/05/2025 06:10,Extracted,Non-PO Invoice,34903,05/14/2025,,USD,208.03,1953.71,harper-austin,Monetize cross-platform networks department miller-norton
+DOC_0000000321,07/10/2025 01:26,Partially Extracted,Non-PO Invoice,38526,06/11/2025,,INR,224.52,418.75,ballard group,"Grow 24/7 mindshare department phillips, bryan and henry"
+DOC_0000000322,06/24/2025 19:50,Partially Extracted,Non-PO Invoice,35275,06/11/2025,,USD,499.43,1480.94,"green, jackson and johnson","Strategize intuitive users department cooper, watson and navarro"
+DOC_0000000323,07/07/2025 01:23,Partially Extracted,PO Invoice,31093,07/03/2025,755043344.0,USD,205.0,2624.47,"hooper, luna and stewart",Re-intermediate impactful partnerships department harper and sons
+DOC_0000000324,06/25/2025 00:21,Partially Extracted,PO Invoice,32680,04/25/2025,,EUR,187.65,4481.95,smith-beck,Engineer extensible eyeballs department singh plc
+DOC_0000000325,04/25/2025 10:25,Partially Extracted,Non-PO Invoice,39837,05/09/2025,755043637.0,MYR,66.69,1755.03,donovan-cooper,"Synergize innovative methodologies department morris, vaughn and peters"
+DOC_0000000326,06/13/2025 05:29,Extracted,PO Invoice,39676,04/25/2025,,EUR,14.99,4287.33,morris group,"Reinvent plug-and-play functionalities department wheeler, diaz and washington"
+DOC_0000000327,04/25/2025 10:23,Failed,Non-PO Invoice,37098,06/24/2025,,EUR,306.57,4536.17,perez and sons,Innovate collaborative functionalities department johnson llc
+DOC_0000000328,04/25/2025 03:07,Partially Extracted,Non-PO Invoice,34307,05/24/2025,,MYR,114.54,1969.31,garcia-ramirez,Grow 24/7 e-tailers department garcia group
+DOC_0000000329,07/15/2025 15:56,Extracted,Non-PO Invoice,35826,05/27/2025,755043641.0,INR,30.76,4745.65,singleton-ritter,Streamline interactive e-services department olson-orozco
+DOC_0000000330,07/05/2025 14:28,Failed,Non-PO Invoice,38004,07/04/2025,,MYR,87.73,3617.01,mendoza ltd,Engineer cutting-edge web services department mann-patel
+DOC_0000000331,05/05/2025 01:47,Extracted,Non-PO Invoice,31700,05/03/2025,,EUR,221.3,4464.74,costa-salazar,Revolutionize world-class action-items department conley group
+DOC_0000000332,06/17/2025 14:19,Failed,PO Invoice,35997,07/04/2025,,EUR,288.05,2204.66,"michael, walker and lozano",Incentivize enterprise systems department morris-reyes
+DOC_0000000333,05/28/2025 16:18,Extracted,PO Invoice,35382,04/26/2025,,USD,106.57,4999.33,"smith, morales and wilkinson","Aggregate customized systems department graham, rodriguez and gray"
+DOC_0000000334,05/28/2025 11:58,Failed,Non-PO Invoice,31841,06/23/2025,,MYR,1.17,4886.8,brown-perry,Expedite proactive methodologies department jones group
+DOC_0000000335,07/03/2025 02:10,Extracted,PO Invoice,38404,07/08/2025,755043386.0,USD,493.65,1119.27,mitchell and sons,"Re-intermediate bleeding-edge solutions department castro, ray and santana"
+DOC_0000000336,07/07/2025 08:20,Failed,PO Invoice,38600,05/11/2025,,USD,465.56,1216.82,lewis-butler,Disintermediate end-to-end content department ramirez-clements
+DOC_0000000337,05/07/2025 15:55,Partially Extracted,PO Invoice,32484,06/21/2025,755043679.0,MYR,377.36,2860.43,torres-marshall,Productize granular initiatives department henry-mason
+DOC_0000000338,06/21/2025 22:23,Partially Extracted,Non-PO Invoice,35598,04/26/2025,755043845.0,INR,227.53,2202.97,fuller-byrd,"Whiteboard cross-platform schemas department donaldson, riddle and pena"
+DOC_0000000339,05/27/2025 09:48,Failed,PO Invoice,35924,05/19/2025,,USD,186.01,294.42,"duncan, chambers and fischer",Harness clicks-and-mortar networks department esparza ltd
+DOC_0000000340,06/09/2025 01:22,Extracted,Non-PO Invoice,34772,07/11/2025,,MYR,34.36,3336.74,chan llc,Empower scalable metrics department whitaker-warner
+DOC_0000000341,05/27/2025 15:28,Extracted,Non-PO Invoice,38291,05/31/2025,,USD,314.38,4611.37,collins-henson,"Revolutionize cross-platform vortals department gates, howard and fox"
+DOC_0000000342,06/09/2025 16:30,Extracted,Non-PO Invoice,34530,04/21/2025,755043405.0,EUR,340.15,3127.0,wheeler-romero,Re-contextualize virtual web services department meyer-wright
+DOC_0000000343,06/12/2025 17:17,Failed,Non-PO Invoice,32257,07/03/2025,755043324.0,MYR,223.39,4126.97,parker and sons,"Benchmark granular relationships department shields, anderson and mack"
+DOC_0000000344,06/06/2025 22:41,Extracted,PO Invoice,36626,06/14/2025,,MYR,265.15,1215.71,velasquez-hawkins,Maximize holistic metrics department hayes group
+DOC_0000000345,05/19/2025 00:57,Partially Extracted,PO Invoice,30115,05/20/2025,755043416.0,USD,474.49,1363.19,hughes-fields,Strategize frictionless web-readiness department mays-rivers
+DOC_0000000346,07/12/2025 11:28,Partially Extracted,PO Invoice,36874,07/03/2025,755043282.0,USD,427.29,344.14,moore plc,"Expedite integrated applications department fritz, davis and clark"
+DOC_0000000347,06/24/2025 12:06,Failed,Non-PO Invoice,36597,05/28/2025,,MYR,165.33,3988.19,"cortez, waters and adams",Productize dynamic networks department keller group
+DOC_0000000348,07/06/2025 08:24,Failed,PO Invoice,34246,05/06/2025,755043767.0,USD,119.9,3361.96,"lewis, hardy and jacobs","Iterate rich channels department scott, mccullough and todd"
+DOC_0000000349,05/14/2025 09:37,Partially Extracted,Non-PO Invoice,32789,07/02/2025,,MYR,264.59,3361.18,lewis-hernandez,"Grow sticky applications department sutton, hansen and ramirez"
+DOC_0000000350,06/11/2025 04:22,Partially Extracted,PO Invoice,39202,06/01/2025,755043414.0,INR,274.55,1177.83,graham-larson,Reinvent distributed users department thompson group
+DOC_0000000351,06/25/2025 23:25,Extracted,PO Invoice,34728,04/21/2025,755043694.0,USD,234.66,3003.43,stevens group,"Benchmark b2c bandwidth department morton, espinoza and oneill"
+DOC_0000000352,05/09/2025 18:28,Extracted,PO Invoice,32432,04/30/2025,,USD,75.84,3998.5,black-farmer,"Empower seamless channels department chandler, long and petty"
+DOC_0000000353,06/20/2025 22:54,Failed,Non-PO Invoice,33178,04/27/2025,,INR,93.09,2105.41,wright plc,"Enable strategic e-services department lewis, ibarra and perry"
+DOC_0000000354,06/25/2025 09:57,Failed,PO Invoice,33046,06/01/2025,755043915.0,INR,366.02,995.22,serrano llc,Benchmark front-end solutions department allen and sons
+DOC_0000000355,04/30/2025 18:18,Failed,Non-PO Invoice,32873,05/23/2025,755043922.0,USD,430.3,3431.51,anderson ltd,Optimize visionary experiences department terry-cruz
+DOC_0000000356,07/02/2025 07:59,Partially Extracted,Non-PO Invoice,32904,07/06/2025,,EUR,355.03,2320.3,wilson-dickerson,Re-intermediate virtual paradigms department harding llc
+DOC_0000000357,05/19/2025 13:03,Failed,Non-PO Invoice,31227,06/17/2025,755043667.0,EUR,436.67,4208.3,fowler ltd,Monetize robust models department brooks ltd
+DOC_0000000358,06/13/2025 16:35,Failed,Non-PO Invoice,34416,07/13/2025,,EUR,247.83,1998.16,hernandez llc,Whiteboard dot-com methodologies department johnson group
+DOC_0000000359,05/26/2025 01:42,Partially Extracted,Non-PO Invoice,36972,06/23/2025,,USD,147.75,3181.59,chase llc,"Evolve proactive markets department clark, willis and snyder"
+DOC_0000000360,07/06/2025 03:17,Partially Extracted,PO Invoice,34635,06/09/2025,,USD,198.1,3960.24,wright-smith,Benchmark killer methodologies department sharp-taylor
+DOC_0000000361,05/28/2025 20:09,Partially Extracted,PO Invoice,34657,05/17/2025,755043152.0,INR,450.96,371.73,"taylor, brown and williams","E-enable world-class experiences department houston, weeks and meadows"
+DOC_0000000362,05/01/2025 06:59,Failed,Non-PO Invoice,30709,07/07/2025,,INR,221.12,2506.15,nelson-garcia,"Exploit one-to-one solutions department mckay, miles and wilson"
+DOC_0000000363,05/11/2025 13:29,Extracted,PO Invoice,33359,06/05/2025,755043540.0,INR,105.97,1421.5,martinez ltd,Exploit best-of-breed experiences department ramirez inc
+DOC_0000000364,06/16/2025 18:14,Failed,PO Invoice,30452,06/06/2025,,MYR,359.5,2013.87,paul-miller,Redefine seamless content department reynolds group
+DOC_0000000365,05/06/2025 03:03,Extracted,PO Invoice,38729,06/30/2025,,USD,202.63,3029.23,hall plc,Expedite back-end relationships department simmons llc
+DOC_0000000366,05/12/2025 12:43,Partially Extracted,Non-PO Invoice,36943,07/14/2025,755043219.0,EUR,460.2,284.59,james plc,Disintermediate proactive functionalities department donaldson-stark
+DOC_0000000367,05/26/2025 20:19,Failed,Non-PO Invoice,37008,04/20/2025,,USD,387.65,2859.92,"walker, lopez and riley",Leverage impactful metrics department jefferson plc
+DOC_0000000368,07/03/2025 13:33,Failed,Non-PO Invoice,32051,07/04/2025,755043397.0,INR,362.95,2436.64,"garrett, carroll and davis",Unleash killer vortals department pratt-gonzalez
+DOC_0000000369,05/01/2025 18:53,Partially Extracted,PO Invoice,38364,06/02/2025,,EUR,440.21,284.67,cooper-rosario,"Syndicate front-end eyeballs department allen, cook and ingram"
+DOC_0000000370,06/06/2025 16:03,Failed,Non-PO Invoice,35272,05/20/2025,,INR,81.75,3762.71,miles-espinoza,Expedite holistic bandwidth department wilkins ltd
+DOC_0000000371,07/02/2025 05:42,Extracted,PO Invoice,30275,06/04/2025,,INR,114.76,2831.9,"hicks, bond and mason","Incubate killer communities department brown, sanchez and reynolds"
+DOC_0000000372,04/25/2025 02:32,Partially Extracted,PO Invoice,30520,06/06/2025,755043477.0,INR,109.09,239.28,"fisher, roberts and paul","Extend next-generation communities department johnson, anderson and brown"
+DOC_0000000373,07/11/2025 06:40,Extracted,Non-PO Invoice,30453,05/25/2025,755043571.0,EUR,444.61,1465.26,"swanson, pham and lewis",Visualize synergistic platforms department shaw llc
+DOC_0000000374,07/05/2025 08:19,Extracted,PO Invoice,36027,06/29/2025,,USD,492.27,3095.24,crawford plc,"Scale value-added schemas department long, jones and mullen"
+DOC_0000000375,05/31/2025 23:43,Extracted,PO Invoice,33428,06/09/2025,755043680.0,EUR,454.14,405.47,pittman-gonzalez,Visualize world-class markets department roberts ltd
+DOC_0000000376,05/17/2025 14:59,Failed,Non-PO Invoice,30867,05/05/2025,755043536.0,INR,366.76,4392.91,"lopez, moody and guerrero",Reinvent turn-key deliverables department bird llc
+DOC_0000000377,06/17/2025 00:43,Failed,PO Invoice,35865,07/04/2025,,EUR,490.3,2878.04,"russo, roberts and brown",Seize visionary e-commerce department barnes-finley
+DOC_0000000378,06/12/2025 18:18,Failed,PO Invoice,36565,05/03/2025,,USD,300.57,221.84,miller-miranda,Brand b2b niches department grant llc
+DOC_0000000379,07/09/2025 13:39,Extracted,Non-PO Invoice,36588,06/18/2025,,USD,33.68,3979.78,lowe-lopez,"Transform visionary infrastructures department freeman, butler and conway"
+DOC_0000000380,06/01/2025 07:12,Partially Extracted,PO Invoice,34912,06/24/2025,755043313.0,MYR,77.55,4516.54,henderson llc,Transition real-time roi department horne-harris
+DOC_0000000381,07/02/2025 00:42,Partially Extracted,PO Invoice,30729,04/26/2025,755043159.0,EUR,440.4,4173.15,"forbes, duke and chavez",Re-intermediate transparent convergence department gutierrez inc
+DOC_0000000382,05/19/2025 15:50,Failed,Non-PO Invoice,37369,04/27/2025,755043064.0,MYR,373.98,3239.14,lucas-fisher,"Repurpose interactive info-mediaries department watson, graham and ford"
+DOC_0000000383,07/14/2025 01:44,Partially Extracted,Non-PO Invoice,30811,06/18/2025,,USD,399.46,4994.5,brewer llc,"Disintermediate extensible methodologies department parrish, hoffman and padilla"
+DOC_0000000384,06/01/2025 09:10,Extracted,PO Invoice,33331,04/20/2025,,MYR,422.51,2162.0,"martinez, bailey and phillips","Maximize extensible initiatives department mckinney, hall and beltran"
+DOC_0000000385,05/15/2025 15:45,Failed,PO Invoice,35213,04/25/2025,,EUR,177.24,1977.51,douglas and sons,Mesh enterprise users department davis llc
+DOC_0000000386,06/02/2025 14:16,Partially Extracted,PO Invoice,36970,06/01/2025,,INR,194.98,4694.28,moore and sons,"Exploit intuitive metrics department cole, armstrong and flores"
+DOC_0000000387,07/06/2025 18:53,Partially Extracted,Non-PO Invoice,34897,04/19/2025,,INR,249.16,1740.98,"clay, hall and carter","Exploit dot-com technologies department allen, hoffman and flores"
+DOC_0000000388,04/23/2025 18:08,Failed,PO Invoice,33365,07/05/2025,,USD,216.03,4508.54,griffith-johnson,"Syndicate end-to-end niches department simmons, nicholson and ryan"
+DOC_0000000389,04/19/2025 22:55,Extracted,Non-PO Invoice,34930,05/05/2025,,USD,41.06,4519.65,martinez-rivera,Enhance holistic synergies department rodriguez-chen
+DOC_0000000390,06/30/2025 09:06,Failed,PO Invoice,35805,06/30/2025,755043861.0,EUR,72.37,4537.36,davis inc,Whiteboard b2c e-services department thomas llc
+DOC_0000000391,05/25/2025 01:55,Failed,Non-PO Invoice,35538,05/06/2025,755043938.0,EUR,485.51,3753.39,powers-carter,"Scale ubiquitous applications department campbell, jones and blair"
+DOC_0000000392,05/01/2025 20:21,Partially Extracted,PO Invoice,33633,06/08/2025,755043997.0,MYR,259.83,1076.53,"harper, weaver and woods",Brand killer infrastructures department edwards group
+DOC_0000000393,05/29/2025 09:00,Partially Extracted,PO Invoice,30805,06/22/2025,755043738.0,MYR,457.64,2508.71,"booker, brown and butler",Target end-to-end platforms department wright group
+DOC_0000000394,06/10/2025 02:17,Partially Extracted,Non-PO Invoice,39875,07/15/2025,,INR,417.01,3503.45,shepherd-williams,Re-intermediate e-business e-services department carson-warren
+DOC_0000000395,06/17/2025 16:34,Extracted,PO Invoice,31682,05/15/2025,755043724.0,EUR,401.82,917.61,"anderson, savage and armstrong",Mesh e-business applications department gilbert-doyle
+DOC_0000000396,05/31/2025 15:11,Failed,Non-PO Invoice,33718,05/25/2025,,MYR,32.06,1872.95,"villa, austin and orozco",Synergize value-added networks department smith ltd
+DOC_0000000397,06/22/2025 15:19,Failed,PO Invoice,34940,05/27/2025,755043818.0,MYR,48.9,4121.94,"jackson, sullivan and harris",Deliver seamless roi department patterson and sons
+DOC_0000000398,04/19/2025 04:27,Failed,Non-PO Invoice,39395,06/30/2025,,INR,340.41,318.0,"woodard, johnson and espinoza","Mesh transparent mindshare department cooper, wilson and campbell"
+DOC_0000000399,07/07/2025 12:15,Extracted,PO Invoice,32678,04/24/2025,,INR,417.12,2641.02,mcintyre-garner,"Deploy end-to-end mindshare department serrano, powell and washington"
+DOC_0000000400,05/17/2025 23:27,Failed,PO Invoice,33432,06/16/2025,755043978.0,EUR,374.34,3158.58,jones-saunders,"Engage web-enabled roi department knight, hudson and walsh"
+DOC_0000000401,06/07/2025 23:03,Extracted,PO Invoice,39058,06/29/2025,,USD,187.2,3019.59,"robles, hess and white",Iterate frictionless niches department harris llc
+DOC_0000000402,04/25/2025 23:33,Extracted,PO Invoice,30291,07/07/2025,,INR,208.26,1502.47,dominguez-mcdowell,Extend b2b deliverables department james and sons
+DOC_0000000403,06/24/2025 22:08,Failed,Non-PO Invoice,30965,05/12/2025,,INR,188.67,2721.93,moore plc,Iterate interactive interfaces department bauer and sons
+DOC_0000000404,04/25/2025 20:34,Partially Extracted,Non-PO Invoice,37596,06/06/2025,755043543.0,MYR,40.42,2416.49,"ramsey, duke and flynn",Whiteboard e-business web services department jones-hobbs
+DOC_0000000405,06/27/2025 01:46,Failed,Non-PO Invoice,38788,04/20/2025,,EUR,36.59,2703.9,russell-hernandez,Facilitate revolutionary synergies department harris-moore
+DOC_0000000406,05/02/2025 21:07,Failed,Non-PO Invoice,39466,05/31/2025,755043682.0,INR,419.52,1907.64,pacheco-casey,Enable interactive paradigms department garcia-simmons
+DOC_0000000407,06/13/2025 17:02,Failed,PO Invoice,35385,06/07/2025,755043896.0,MYR,282.51,4428.14,williams inc,"Incentivize strategic info-mediaries department mason, todd and carr"
+DOC_0000000408,07/04/2025 21:55,Partially Extracted,Non-PO Invoice,35555,06/14/2025,,USD,136.55,544.67,mathews inc,Benchmark dynamic eyeballs department beck-kennedy
+DOC_0000000409,07/14/2025 23:28,Failed,PO Invoice,32794,06/29/2025,,EUR,317.8,1712.98,gomez-wiley,"Evolve turn-key channels department green, jackson and leblanc"
+DOC_0000000410,04/27/2025 21:39,Extracted,Non-PO Invoice,31564,06/04/2025,755043662.0,INR,169.86,672.38,"sullivan, burke and alexander",Deliver end-to-end web services department oliver-garcia
+DOC_0000000411,04/27/2025 08:42,Partially Extracted,Non-PO Invoice,31567,04/30/2025,755043098.0,USD,204.07,4344.19,"clark, harris and ramos",Monetize end-to-end web-readiness department smith-santiago
+DOC_0000000412,05/06/2025 20:52,Failed,Non-PO Invoice,33636,06/25/2025,755043102.0,EUR,395.96,4468.74,brown group,"Incubate killer initiatives department greene, hodges and patterson"
+DOC_0000000413,06/23/2025 10:08,Failed,PO Invoice,30490,06/20/2025,,INR,111.24,1338.68,brock-cooper,Mesh transparent paradigms department smith llc
+DOC_0000000414,06/26/2025 18:38,Failed,PO Invoice,35268,04/19/2025,,MYR,235.61,802.05,"cooper, lopez and brown",Innovate mission-critical convergence department wagner ltd
+DOC_0000000415,07/14/2025 01:05,Partially Extracted,PO Invoice,36108,05/16/2025,,INR,79.17,3854.43,"garcia, peterson and barber","Envisioneer clicks-and-mortar platforms department miller, brown and edwards"
+DOC_0000000416,06/01/2025 16:09,Failed,PO Invoice,30950,06/28/2025,,EUR,462.91,1782.05,pearson-coleman,"Matrix ubiquitous supply-chains department perez, stewart and bell"
+DOC_0000000417,06/16/2025 03:26,Failed,PO Invoice,30385,07/01/2025,755043309.0,EUR,421.47,2514.35,jackson group,Enable integrated solutions department lewis-larson
+DOC_0000000418,04/22/2025 20:07,Partially Extracted,PO Invoice,33201,04/25/2025,755043527.0,MYR,371.83,903.01,osborn group,"Visualize frictionless e-services department bryan, ward and stone"
+DOC_0000000419,06/08/2025 17:54,Partially Extracted,PO Invoice,30373,07/04/2025,,MYR,450.37,1623.9,frey group,Incubate proactive technologies department nguyen ltd
+DOC_0000000420,07/06/2025 16:45,Extracted,Non-PO Invoice,37162,07/14/2025,755043165.0,MYR,207.21,2882.38,watson-spence,Redefine front-end supply-chains department vega-ramirez
+DOC_0000000421,07/17/2025 19:56,Partially Extracted,PO Invoice,34554,04/26/2025,755043062.0,MYR,430.34,4846.86,mueller group,Empower granular technologies department wood-ellis
+DOC_0000000422,04/27/2025 11:56,Failed,Non-PO Invoice,36587,07/09/2025,,INR,160.59,4020.14,"montgomery, lewis and roy","Leverage frictionless e-business department perkins, thomas and lowe"
+DOC_0000000423,05/01/2025 00:36,Extracted,PO Invoice,30484,06/16/2025,755043641.0,USD,168.14,4470.32,sanchez inc,"Repurpose world-class relationships department taylor, whitaker and cardenas"
+DOC_0000000424,04/23/2025 04:13,Partially Extracted,PO Invoice,32097,05/04/2025,,INR,246.52,758.1,moreno ltd,"Mesh transparent action-items department mcdaniel, cisneros and reed"
+DOC_0000000425,05/30/2025 08:25,Failed,Non-PO Invoice,32008,05/28/2025,755043105.0,USD,182.09,2395.33,harris ltd,"Incubate strategic infrastructures department smith, lee and owens"
+DOC_0000000426,06/01/2025 05:16,Failed,Non-PO Invoice,37992,05/07/2025,755043677.0,MYR,348.6,3097.03,marshall-thompson,"Innovate magnetic portals department prince, perez and villa"
+DOC_0000000427,07/09/2025 05:26,Failed,PO Invoice,37438,04/20/2025,755043402.0,MYR,215.0,2383.54,"meadows, hunt and howard","Unleash user-centric e-tailers department foley, campbell and jensen"
+DOC_0000000428,07/11/2025 08:55,Failed,PO Invoice,32495,05/16/2025,,INR,444.01,3885.39,bailey group,Integrate interactive experiences department mcfarland plc
+DOC_0000000429,05/19/2025 21:49,Extracted,Non-PO Invoice,32417,05/20/2025,755043748.0,EUR,373.93,4803.77,bryan ltd,Enhance turn-key systems department diaz-hamilton
+DOC_0000000430,04/20/2025 12:02,Extracted,Non-PO Invoice,37487,04/24/2025,,INR,410.86,2906.44,"mcknight, townsend and george",Aggregate cross-media interfaces department thomas and sons
+DOC_0000000431,05/11/2025 18:01,Partially Extracted,Non-PO Invoice,38492,06/20/2025,,MYR,312.02,3334.27,perry plc,Reinvent innovative portals department reed group
+DOC_0000000432,06/22/2025 10:40,Partially Extracted,Non-PO Invoice,39884,06/20/2025,,INR,100.09,1872.88,"brown, williams and bryant",Re-intermediate intuitive bandwidth department butler plc
+DOC_0000000433,04/25/2025 10:41,Failed,PO Invoice,33139,06/08/2025,755043071.0,EUR,195.06,216.15,king-herman,Innovate cross-platform niches department logan plc
+DOC_0000000434,04/23/2025 21:05,Partially Extracted,PO Invoice,38641,06/30/2025,,USD,385.74,2249.77,brown llc,"Empower b2c web services department smith, stephens and fischer"
+DOC_0000000435,06/11/2025 15:04,Partially Extracted,Non-PO Invoice,36481,04/25/2025,755043963.0,USD,32.12,232.59,"lee, holder and davis","Deliver clicks-and-mortar infrastructures department andrade, strickland and powell"
+DOC_0000000436,06/25/2025 23:30,Failed,PO Invoice,39485,06/11/2025,755043179.0,INR,277.33,1741.82,"owens, gallegos and brown",Synergize viral e-markets department reyes-zimmerman
+DOC_0000000437,07/11/2025 19:32,Partially Extracted,PO Invoice,30406,06/24/2025,,EUR,267.3,1536.04,"huffman, parker and skinner",E-enable cross-platform relationships department grant and sons
+DOC_0000000438,04/29/2025 00:14,Failed,PO Invoice,37229,07/13/2025,,MYR,241.75,2861.43,weaver group,"Strategize viral deliverables department flores, zimmerman and king"
+DOC_0000000439,04/19/2025 17:49,Failed,Non-PO Invoice,38850,06/29/2025,755043447.0,MYR,382.02,734.19,brown inc,"Mesh extensible convergence department shaw, oconnor and griffin"
+DOC_0000000440,05/08/2025 19:48,Extracted,PO Invoice,35459,05/02/2025,,INR,434.45,3345.19,guzman inc,Deploy leading-edge interfaces department holt group
+DOC_0000000441,04/18/2025 22:17,Failed,Non-PO Invoice,39644,05/28/2025,,USD,203.06,920.62,lin-hernandez,"Deliver granular architectures department ellis, arnold and dickson"
+DOC_0000000442,04/20/2025 07:27,Extracted,Non-PO Invoice,36220,06/23/2025,,MYR,171.3,2932.23,wilson-oliver,Matrix impactful solutions department bruce-pham
+DOC_0000000443,06/11/2025 07:50,Extracted,Non-PO Invoice,30899,05/13/2025,,USD,286.49,3575.53,turner llc,Scale e-business platforms department watkins-williams
+DOC_0000000444,04/29/2025 20:07,Failed,PO Invoice,33055,05/21/2025,755043512.0,USD,49.93,1877.64,brown inc,Mesh end-to-end e-commerce department willis-knight
+DOC_0000000445,05/06/2025 04:10,Failed,PO Invoice,39673,05/31/2025,,MYR,202.15,1406.22,stevens-mcdonald,Optimize e-business technologies department joseph-thomas
+DOC_0000000446,07/10/2025 09:55,Partially Extracted,PO Invoice,35826,07/14/2025,,USD,351.89,3424.11,weaver llc,"Extend killer methodologies department grant, carr and scott"
+DOC_0000000447,04/28/2025 20:10,Failed,Non-PO Invoice,30693,04/30/2025,,MYR,28.5,2783.48,hunter plc,Utilize extensible infrastructures department velez-williamson
+DOC_0000000448,05/30/2025 12:35,Partially Extracted,Non-PO Invoice,30110,07/03/2025,,USD,151.25,2405.38,scott-clayton,"Transition collaborative schemas department thompson, rice and chaney"
+DOC_0000000449,06/24/2025 01:41,Failed,Non-PO Invoice,39363,04/19/2025,755043936.0,MYR,67.58,1436.46,"miller, ortiz and wright",Re-contextualize bleeding-edge technologies department benjamin-williams
+DOC_0000000450,05/01/2025 07:02,Failed,Non-PO Invoice,34583,06/17/2025,,INR,143.78,2975.7,kelly and sons,"Morph global bandwidth department arellano, walker and barrett"
+DOC_0000000451,06/12/2025 00:47,Partially Extracted,Non-PO Invoice,38613,05/17/2025,755043903.0,MYR,240.89,3462.4,nelson inc,"Iterate frictionless interfaces department brooks, harrell and campbell"
+DOC_0000000452,05/05/2025 19:05,Partially Extracted,Non-PO Invoice,32438,05/15/2025,,USD,242.55,2214.2,snyder llc,Cultivate holistic architectures department olsen-herrera
+DOC_0000000453,06/26/2025 02:02,Failed,PO Invoice,36323,07/08/2025,,EUR,143.98,4545.15,"lewis, munoz and rodriguez","Transform end-to-end relationships department johnson, mcneil and marks"
+DOC_0000000454,04/26/2025 20:23,Extracted,Non-PO Invoice,34766,07/05/2025,,USD,466.41,1660.1,holden-simpson,Synthesize sticky e-commerce department patton llc
+DOC_0000000455,04/30/2025 05:13,Failed,Non-PO Invoice,35102,05/22/2025,755043966.0,MYR,428.98,4640.86,lee plc,Extend out-of-the-box e-tailers department edwards-moreno
+DOC_0000000456,04/21/2025 13:35,Partially Extracted,PO Invoice,32679,05/25/2025,755043741.0,MYR,254.61,4548.19,clay ltd,Transform user-centric architectures department johnson-jackson
+DOC_0000000457,05/17/2025 03:19,Partially Extracted,PO Invoice,38205,04/21/2025,,INR,389.8,2654.11,cooke-bishop,Optimize plug-and-play metrics department hoffman ltd
+DOC_0000000458,07/15/2025 05:04,Failed,Non-PO Invoice,39947,05/26/2025,755043084.0,EUR,19.91,3826.46,"gonzalez, bradley and fox",Cultivate back-end e-commerce department montgomery inc
+DOC_0000000459,06/18/2025 07:59,Failed,Non-PO Invoice,30944,06/02/2025,,USD,287.87,4662.86,"quinn, villarreal and lewis",Enhance ubiquitous initiatives department orozco-meyer
+DOC_0000000460,06/05/2025 15:41,Extracted,PO Invoice,34440,07/11/2025,755043964.0,INR,419.74,848.31,barber-smith,Transform integrated applications department bradley ltd
+DOC_0000000461,06/26/2025 03:45,Extracted,PO Invoice,30172,04/23/2025,,INR,487.14,1795.65,"barton, ray and gibson",Evolve dot-com niches department kirk-huang
+DOC_0000000462,05/26/2025 11:11,Extracted,Non-PO Invoice,30197,04/23/2025,755043912.0,MYR,490.75,2852.2,"rivera, perez and smith",Harness back-end e-commerce department mckay-manning
+DOC_0000000463,06/28/2025 00:46,Failed,Non-PO Invoice,31406,04/27/2025,755043804.0,EUR,145.02,1992.03,rodriguez-smith,"Integrate cross-platform e-services department thompson, meza and baxter"
+DOC_0000000464,06/14/2025 18:07,Extracted,Non-PO Invoice,38283,05/06/2025,,INR,291.38,2091.36,mason llc,Expedite leading-edge methodologies department strickland-ramos
+DOC_0000000465,05/29/2025 05:37,Extracted,Non-PO Invoice,34562,05/06/2025,755043416.0,EUR,7.13,3477.69,brown-woods,"Target frictionless web-readiness department luna, dixon and smith"
+DOC_0000000466,06/19/2025 08:46,Extracted,Non-PO Invoice,37210,06/12/2025,,MYR,1.89,1924.68,allen group,"Generate dynamic action-items department robinson, taylor and webb"
+DOC_0000000467,05/19/2025 17:24,Extracted,Non-PO Invoice,37147,04/25/2025,,USD,206.38,1049.53,"davis, perez and francis",Strategize ubiquitous web-readiness department ramirez-phillips
+DOC_0000000468,05/27/2025 21:44,Extracted,PO Invoice,33928,04/19/2025,755043585.0,INR,121.71,1519.15,"hoffman, mendez and riggs","Extend visionary portals department lane, reilly and richard"
+DOC_0000000469,05/06/2025 21:13,Failed,Non-PO Invoice,32844,06/14/2025,,INR,392.92,2543.37,moody ltd,Target 24/365 platforms department castro ltd
+DOC_0000000470,04/24/2025 19:52,Extracted,PO Invoice,36578,06/23/2025,755043154.0,MYR,121.17,1652.5,warner-leach,"Engage back-end e-tailers department rowland, smith and roy"
+DOC_0000000471,04/20/2025 08:00,Partially Extracted,Non-PO Invoice,30541,04/29/2025,755043826.0,INR,336.31,3247.77,clark group,Seize leading-edge deliverables department cook group
+DOC_0000000472,07/11/2025 14:46,Extracted,Non-PO Invoice,31395,05/02/2025,755043389.0,EUR,166.47,2455.52,williams and sons,Evolve turn-key experiences department weber and sons
+DOC_0000000473,06/08/2025 07:29,Failed,PO Invoice,31260,05/11/2025,,EUR,196.3,2195.38,ramsey-norton,Extend bleeding-edge paradigms department rodriguez ltd
+DOC_0000000474,06/23/2025 10:00,Partially Extracted,Non-PO Invoice,30876,07/01/2025,755043695.0,USD,304.45,4514.58,martinez ltd,Morph intuitive schemas department barajas-day
+DOC_0000000475,07/13/2025 01:27,Extracted,Non-PO Invoice,37365,07/16/2025,,MYR,263.15,2844.63,clements-hunter,Leverage vertical content department abbott-hayden
+DOC_0000000476,05/02/2025 16:49,Partially Extracted,PO Invoice,33317,07/15/2025,755043838.0,EUR,191.71,2446.71,martinez and sons,Streamline turn-key roi department brown and sons
+DOC_0000000477,05/30/2025 15:43,Extracted,Non-PO Invoice,32253,05/01/2025,,MYR,497.4,1357.15,hahn llc,"Mesh enterprise vortals department johnson, graham and guzman"
+DOC_0000000478,05/17/2025 01:00,Partially Extracted,PO Invoice,31434,05/05/2025,,USD,366.76,3828.9,"robbins, lee and arnold",Transform b2c e-markets department figueroa ltd
+DOC_0000000479,05/06/2025 18:50,Failed,Non-PO Invoice,36673,06/19/2025,,INR,198.72,1410.19,"mann, leonard and harmon",Grow interactive channels department flynn and sons
+DOC_0000000480,07/13/2025 13:45,Partially Extracted,PO Invoice,37454,06/25/2025,,USD,166.91,417.12,nelson ltd,"Reinvent dot-com infrastructures department scott, scott and mcintosh"
+DOC_0000000481,05/09/2025 02:17,Extracted,Non-PO Invoice,37374,05/07/2025,,MYR,228.63,2555.59,snyder ltd,"Enhance virtual e-services department williams, thompson and cox"
+DOC_0000000482,05/14/2025 18:06,Extracted,Non-PO Invoice,33969,04/27/2025,755043079.0,EUR,29.16,3652.13,erickson llc,Engage revolutionary content department travis-hickman
+DOC_0000000483,04/21/2025 21:55,Failed,Non-PO Invoice,37617,07/08/2025,,USD,159.28,4863.68,carter-powers,Matrix magnetic architectures department smith and sons
+DOC_0000000484,07/08/2025 10:26,Failed,PO Invoice,30087,04/25/2025,755043343.0,USD,160.58,2071.65,"cunningham, berry and cox",Iterate 24/7 users department navarro and sons
+DOC_0000000485,06/28/2025 05:47,Extracted,PO Invoice,34630,05/08/2025,,EUR,370.09,1625.49,"ellis, clark and hernandez","Utilize wireless action-items department hampton, clark and phillips"
+DOC_0000000486,06/08/2025 07:44,Partially Extracted,Non-PO Invoice,35983,06/17/2025,,INR,55.68,549.07,villa-pierce,Incentivize holistic channels department zimmerman-patterson
+DOC_0000000487,05/28/2025 17:30,Extracted,Non-PO Invoice,31648,05/23/2025,755043111.0,MYR,290.02,1912.96,"rangel, tran and carroll",Facilitate world-class synergies department oneal plc
+DOC_0000000488,07/14/2025 23:18,Partially Extracted,Non-PO Invoice,37895,05/23/2025,755043880.0,USD,480.45,4906.52,parker-price,"Repurpose strategic functionalities department carlson, martinez and gomez"
+DOC_0000000489,06/20/2025 22:11,Partially Extracted,PO Invoice,31766,07/05/2025,,USD,473.78,3658.72,spence llc,Re-contextualize bleeding-edge infrastructures department bailey-logan
+DOC_0000000490,07/14/2025 09:10,Failed,PO Invoice,31342,05/15/2025,,INR,174.33,3936.39,white-barnes,Transition global vortals department miller-jennings
+DOC_0000000491,06/15/2025 18:06,Failed,PO Invoice,38395,06/18/2025,,USD,283.81,3316.11,martin group,"Re-contextualize vertical experiences department cunningham, johnson and williams"
+DOC_0000000492,07/17/2025 03:58,Partially Extracted,PO Invoice,39337,06/20/2025,755043143.0,MYR,253.61,1985.0,floyd group,Grow turn-key interfaces department byrd group
+DOC_0000000493,05/25/2025 19:35,Failed,PO Invoice,30937,05/06/2025,,INR,117.29,3926.75,"byrd, gray and guzman",Synthesize b2c networks department craig-bailey
+DOC_0000000494,07/13/2025 03:25,Partially Extracted,Non-PO Invoice,35221,07/06/2025,,USD,318.01,2183.24,"stone, guzman and singleton","Leverage user-centric partnerships department evans, evans and conner"
+DOC_0000000495,04/27/2025 10:24,Failed,Non-PO Invoice,34548,06/11/2025,,USD,74.12,1568.32,"butler, mckenzie and dean",Expedite 24/365 convergence department barrera and sons
+DOC_0000000496,05/19/2025 12:06,Partially Extracted,Non-PO Invoice,36849,06/04/2025,755043395.0,USD,13.06,2593.93,"graham, lee and peterson","Empower bricks-and-clicks architectures department lopez, graham and perez"
+DOC_0000000497,07/06/2025 06:49,Extracted,Non-PO Invoice,36195,04/18/2025,,INR,60.81,3133.89,"fischer, williams and burns",Envisioneer bricks-and-clicks methodologies department mcgrath ltd
+DOC_0000000498,05/31/2025 06:38,Extracted,Non-PO Invoice,38309,06/30/2025,755043190.0,INR,211.3,1217.75,small-baxter,Disintermediate robust niches department norton plc
+DOC_0000000499,05/06/2025 04:51,Failed,Non-PO Invoice,37068,07/10/2025,755043536.0,USD,84.47,1072.06,"brown, anderson and stewart",Productize compelling users department lane-williams
+DOC_0000000500,06/06/2025 15:53,Extracted,PO Invoice,30608,07/02/2025,,USD,81.33,567.16,"mccullough, mathis and calhoun",Embrace efficient web services department romero-gonzalez

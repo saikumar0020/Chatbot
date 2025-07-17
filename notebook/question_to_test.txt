@@ -1,0 +1,50 @@
+Basic Retrieval Queries
+--------------------------------
+What is the invoice amount for invoice number 32648?
+
+Which supplier raised invoice number 35581?
+
+List all invoices with status "Extracted".
+
+Show me all invoices in USD currency.
+
+What is the tax amount for the invoice from marshall ltd?
+
+Filtering with Conditions
+--------------------------------
+Which invoices were received after May 1, 2025?
+
+List all PO invoices.
+
+Find invoices where tax amount is greater than 100.
+
+Give me invoices with status "Failed" or "Partially Extracted".
+
+What are the invoice numbers where the currency is MYR?
+
+Aggregation & Summary
+--------------------------------
+What is the total invoice amount from all suppliers?
+
+How many invoices are in the system?
+
+What is the average tax amount?
+
+Count the number of invoices per supplier.
+
+List the total invoice amount grouped by invoice status.
+
+NULL / Missing Value Checks
+--------------------------------
+Which invoices don’t have a PO number?
+
+Show invoices where the tax amount is not null.
+
+Are there any suppliers with missing bill to details?
+
+Complex Natural Language
+--------------------------------
+Give me the details of invoices received in May 2025.
+
+List all invoices with invoice amount greater than 3000 and status not equal to Failed.
+
